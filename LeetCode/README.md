@@ -13,5 +13,7 @@
 | 9 | [Min Cost Climbing Stairs](https://leetcode.com/submissions/detail/428253411/) | [Python](https://github.com/qiyuangong/leetcode/blob/master/python/002_Add_Two_Numbers.py) [Java](https://github.com/qiyuangong/leetcode/blob/master/java/002_Add_Two_Numbers.java) ||
 | 10 | [Intersection of Two Arrays II](https://leetcode.com/submissions/detail/427868455/) | [Python](https://github.com/qiyuangong/leetcode/blob/master/python/002_Add_Two_Numbers.py) [Java](https://github.com/qiyuangong/leetcode/blob/master/java/002_Add_Two_Numbers.java) ||
 | 11 | [Number of 1 Bits](https://leetcode.com/submissions/detail/427497732/) |  [Java](https://github.com/qiyuangong/leetcode/blob/master/java/002_Add_Two_Numbers.java) ||
+| 12 | [Remove Duplicates from Sorted Array](https://leetcode.com/submissions/detail/432985689/) |  [Java]() ||
+| 13 | [Rectangle Overlap](https://leetcode.com/submissions/detail/432983204/) |  [Java]() ||
 
 
