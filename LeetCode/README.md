@@ -8,7 +8,7 @@
 | 4 | [Maximum of Absolute Value Expression](https://leetcode.com/submissions/detail/370983100/) |  |1. Remove Mod and check Possible equations<br> 2.Eliminate certain cases if possible|
 | 5 | [Trapping Rain Water](https://leetcode.com/submissions/detail/372669283/) |   |1. Create Prefix and Postfix Arrays for Man on either side<br> 2.Check Also two pointer approach|
 | 6 | [Greatest Common Divisor of Strings](https://leetcode.com/submissions/detail/428950547/) | |
-| 7 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/submissions/detail/370983100/) | [Python](https://github.com/qiyuangong/leetcode/blob/master/python/002_Add_Two_Numbers.py) | |  [Java](https://github.com/qiyuangong/leetcode/blob/master/java/002_Add_Two_Numbers.java) ||
+| 7 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/submissions/detail/370983100/) | | |   ||
 | 9 | [Min Cost Climbing Stairs](https://leetcode.com/submissions/detail/428253411/) | |
 | 10 | [Intersection of Two Arrays II](https://leetcode.com/submissions/detail/427868455/) | |
 | 11 | [Number of 1 Bits](https://leetcode.com/submissions/detail/427497732/) |  ||
