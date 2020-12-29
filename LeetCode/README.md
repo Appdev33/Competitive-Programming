@@ -14,5 +14,8 @@
 | 11 | [Number of 1 Bits](https://leetcode.com/submissions/detail/427497732/) |  ||
 | 12 | [Remove Duplicates from Sorted Array](https://leetcode.com/submissions/detail/432985689/) |  |
 | 13 | [Rectangle Overlap](https://leetcode.com/submissions/detail/432983204/) | ||
+| 14 | [Rectangle Overlap](https://leetcode.com/submissions/detail/432983204/) | ||
+| 15 | [https://leetcode.com/submissions/detail/433381307/]( https://leetcode.com/submissions/detail/433381307/|) ||
+| 16 | [Remove Duplicates from Sorted Array]https://leetcode.com/submissions/detail/432985689/| ||
 
 
