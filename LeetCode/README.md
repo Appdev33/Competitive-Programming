@@ -18,6 +18,6 @@
 | 15 | [Plus One](https://leetcode.com/problems/plus-one/)| ||
 | 16 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)| ||
 | 17 | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/)| ||
-| 18 | [Remove Duplicates from Sorted Array](https://leetcode.com/submissions/detail/432985689/)| ||
+
 
 
