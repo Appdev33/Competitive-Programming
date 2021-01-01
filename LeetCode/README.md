@@ -14,10 +14,10 @@
 | 11 | [Number of 1 Bits](https://leetcode.com/submissions/detail/427497732/) |  ||
 | 12 | [Remove Duplicates from Sorted Array](https://leetcode.com/submissions/detail/432985689/) |  |
 | 13 | [Rectangle Overlap](https://leetcode.com/submissions/detail/432983204/) | ||
-| 14 | [](https://leetcode.com/problems/greatest-common-divisor-of-strings/)| ||
-| 15 | [](https://leetcode.com/problems/plus-one/)| ||
-| 16 | [](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)| ||
-| 17 | [](https://leetcode.com/problems/rectangle-overlap/)| ||
-| 18 | [y](https://leetcode.com/submissions/detail/432985689/)| ||
+| 14 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)| ||
+| 15 | [Plus One](https://leetcode.com/problems/plus-one/)| ||
+| 16 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)| ||
+| 17 | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/)| ||
+| 18 | [Remove Duplicates from Sorted Array](https://leetcode.com/submissions/detail/432985689/)| ||
 
 
