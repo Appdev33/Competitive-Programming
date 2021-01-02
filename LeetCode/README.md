@@ -18,6 +18,8 @@
 | 15 | [Plus One](https://leetcode.com/problems/plus-one/)| ||
 | 16 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)| ||
 | 17 | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/)| ||
+| 18 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)| ||
+| 19 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)| ||
 
 
 
