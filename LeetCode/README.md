@@ -20,6 +20,10 @@
 | 17 | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/)| ||
 | 18 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)| ||
 | 19 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)| ||
+| 20 | [Unique Paths](https://leetcode.com/problems/unique-paths/)| ||
+| 21 | [Remove Element](https://leetcode.com/problems/remove-element/)| ||
+| 20 | []()| ||
+| 21 | []()| ||
 
 
 
