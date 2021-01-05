@@ -23,7 +23,8 @@
 | 20 | [Unique Paths](https://leetcode.com/problems/unique-paths/)| ||
 | 21 | [Remove Element](https://leetcode.com/problems/remove-element/)| ||
 | 20 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)| ||
-| 21 | []()| ||
+| 21 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/submissions/)| ||
+| 22 | []()| ||
 
 
 
