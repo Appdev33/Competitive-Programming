@@ -25,6 +25,12 @@
 | 20 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)| ||
 | 21 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/submissions/)| ||
 | 22 | []()| ||
+| 22 | []()| ||
+| 22 | []()| ||
+| 22 | []()| ||
+| 22 | []()| ||
+
+
 
 
 
