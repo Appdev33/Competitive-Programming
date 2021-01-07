@@ -24,7 +24,7 @@
 | 21 | [Remove Element](https://leetcode.com/problems/remove-element/)| ||
 | 20 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)| ||
 | 21 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/submissions/)| ||
-| 22 | []()| ||
+| 22 | [Largest Number](https://leetcode.com/problems/largest-number/)| ||
 | 22 | []()| ||
 | 22 | []()| ||
 | 22 | []()| ||
