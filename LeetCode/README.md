@@ -25,7 +25,7 @@
 | 20 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)| ||
 | 21 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/submissions/)| ||
 | 22 | [Largest Number](https://leetcode.com/problems/largest-number/)| ||
-| 22 | []()| ||
+| 22 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/submissions/)| ||
 | 22 | []()| ||
 | 22 | []()| ||
 | 22 | []()| ||
