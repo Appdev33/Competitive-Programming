@@ -29,7 +29,7 @@
 | 24 | [Single Number II](https://leetcode.com/problems/single-number-ii/)| ||
 | 25 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)| ||
 | 26 | [Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/)| ||
-| 22 | []()| ||
+| 27 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)| ||
 | 22 | []()| ||
 | 22 | []()| ||
 | 22 | []()| ||
