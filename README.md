@@ -1,4 +1,4 @@
-# Competitive Coding Questions AND Answers
+# Competitive Coding Questions
 
 
 
