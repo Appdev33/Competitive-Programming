@@ -30,7 +30,7 @@
 | 25 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)| ||
 | 26 | [Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/)| ||
 | 27 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)| ||
-| 22 | []()| ||
+| 28 | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)| ||
 | 22 | []()| ||
 | 22 | []()| ||
 | 22 | []()| ||
