@@ -32,7 +32,7 @@
 | 27 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)| ||
 | 28 | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)| ||
 | 29 | [Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)| ||
-| 22 | []()| ||
+| 30 | [Max Chunks To Make Sorted II](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/)| ||
 | 22 | []()| ||
 | 22 | []()| ||
 | 22 | []()| ||
