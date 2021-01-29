@@ -34,7 +34,7 @@
 | 29 | [Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)| ||
 | 30 | [Max Chunks To Make Sorted II](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/)| ||
 | 31 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/)| ||
-| 22 | []()| ||
+| 22 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)| ||
 | 22 | []()| ||
 | 22 | []()| ||
 | 22 | []()| ||
