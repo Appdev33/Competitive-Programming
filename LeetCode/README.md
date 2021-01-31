@@ -36,7 +36,7 @@
 | 31 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/)| ||
 | 32 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)| ||
 | 33 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)| ||
-| 22 | []()| ||
+| 34 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/)| ||
 | 22 | []()| ||
 | 22 | []()| ||
 | 22 | []()| ||
