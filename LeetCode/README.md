@@ -38,6 +38,21 @@
 | 33 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)| ||
 | 34 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/)| ||
 | 35 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)| ||
+| 36 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)| ||
+| 37 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)| ||
+| 22 | []()| ||
+| 22 | []()| ||
+| 22 | []()| ||
+| 22 | []()| ||
+| 22 | []()| ||
+| 22 | []()| ||
+| 22 | []()| ||
+| 22 | []()| ||
+| 22 | []()| ||
+| 22 | []()| ||
+| 22 | []()| ||
+| 22 | []()| ||
+| 22 | []()| ||
 | 22 | []()| ||
 | 22 | []()| ||
 | 22 | []()| ||
