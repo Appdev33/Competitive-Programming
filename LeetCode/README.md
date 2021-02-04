@@ -42,7 +42,7 @@
 | 37 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)| ||
 | 38 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| ||
 | 39 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)| ||
-| 22 | []()| ||
+| 40 | [Partition List](https://leetcode.com/problems/partition-list/)| ||
 | 22 | []()| ||
 | 22 | []()| ||
 | 22 | []()| ||
