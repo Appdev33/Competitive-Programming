@@ -1,4 +1,6 @@
 
+# Interview Bit Questions
+
 | # | Title | Solution | My Approach |
 |---| ----- | -------- | --------------------- |
 | 1 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/submissions/) || 1. Take Index for  start and end of row and column<br>2. On Traversing a row/Col remove it and decrease or Increase start and End of Corresponding row/Column|
