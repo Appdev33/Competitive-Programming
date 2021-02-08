@@ -8,7 +8,7 @@
 | 3 | [Largest Coprime Divisor](https://www.interviewbit.com/courses/programming/topics/math/problems/largest-coprime-divisor/)| ||
 | 4 | [Min XOR value](https://www.interviewbit.com/problems/min-xor-value/)| ||
 | 5 | [Allocate Books](https://www.interviewbit.com/problems/allocate-books/)| ||
-| 6 | []()| ||
+| 6 | [Kth Node From Middle](https://www.interviewbit.com/problems/kth-node-from-middle/)| ||
 | 5 | []()| ||
 | 6 | []()| ||
 | 5 | []()| ||
