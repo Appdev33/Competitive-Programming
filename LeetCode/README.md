@@ -44,10 +44,10 @@
 | 39 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)| ||
 | 40 | [Partition List](https://leetcode.com/problems/partition-list/)| ||
 | 41 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)| ||
-| 22 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)| ||
-| 22 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)| ||
-| 22 | []()| ||
-| 22 | []()| ||
+| 42 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)| ||
+| 43 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)| ||
+| 44 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| ||
+| 45 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)| ||
 | 22 | []()| ||
 | 22 | []()| ||
 | 22 | []()| ||
