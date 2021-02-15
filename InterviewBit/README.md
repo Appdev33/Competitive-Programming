@@ -9,7 +9,7 @@
 | 4 | [Min XOR value](https://www.interviewbit.com/problems/min-xor-value/)| ||
 | 5 | [Allocate Books](https://www.interviewbit.com/problems/allocate-books/)| ||
 | 6 | [Kth Node From Middle](https://www.interviewbit.com/problems/kth-node-from-middle/)| ||
-| 5 | []()| ||
+| 5 | [Balanced Parantheses!](https://www.interviewbit.com/problems/balanced-parantheses/)| ||
 | 6 | []()| ||
 | 5 | []()| ||
 | 6 | []()| ||
