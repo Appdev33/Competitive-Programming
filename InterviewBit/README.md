@@ -10,7 +10,7 @@
 | 5 | [Allocate Books](https://www.interviewbit.com/problems/allocate-books/)| ||
 | 6 | [Kth Node From Middle](https://www.interviewbit.com/problems/kth-node-from-middle/)| ||
 | 5 | [Balanced Parantheses!](https://www.interviewbit.com/problems/balanced-parantheses/)| ||
-| 6 | []()| ||
+| 6 | [Even Reverse](https://www.interviewbit.com/problems/even-reverse/)| ||
 | 5 | []()| ||
 | 6 | []()| ||
 | 5 | []()| ||
