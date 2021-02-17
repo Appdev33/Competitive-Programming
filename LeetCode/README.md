@@ -51,7 +51,7 @@
 | 46 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)| ||
 | 47 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)| ||
 | 48 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| ||
-| 22 | []()| ||
+| 49 | [Simplify Path](https://leetcode.com/problems/simplify-path/)| ||
 | 22 | []()| ||
 | 22 | []()| ||
 | 22 | []()| ||
