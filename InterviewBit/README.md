@@ -11,7 +11,7 @@
 | 6 | [Kth Node From Middle](https://www.interviewbit.com/problems/kth-node-from-middle/)| ||
 | 5 | [Balanced Parantheses!](https://www.interviewbit.com/problems/balanced-parantheses/)| ||
 | 6 | [Even Reverse](https://www.interviewbit.com/problems/even-reverse/)| ||
-| 5 | []()| ||
+| 5 | [First non-repeating character in a stream of characters](https://www.interviewbit.com/problems/first-non-repeating-character-in-a-stream-of-characters/)| ||
 | 6 | []()| ||
 | 5 | []()| ||
 | 6 | []()| ||
