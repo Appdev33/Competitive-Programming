@@ -53,8 +53,8 @@
 | 48 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| ||
 | 49 | [Simplify Path](https://leetcode.com/problems/simplify-path/)| ||
 | 50 | [Rotate List](https://leetcode.com/problems/rotate-list/)| ||
-| 22 | []()| ||
-| 22 | []()| ||
+| 51 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)| ||
+| 52 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)| ||
 | 22 | []()| ||
 | 22 | []()| ||
 | 22 | []()| ||
