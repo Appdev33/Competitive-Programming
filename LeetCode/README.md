@@ -55,7 +55,7 @@
 | 50 | [Rotate List](https://leetcode.com/problems/rotate-list/)| ||
 | 51 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)| ||
 | 52 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)| ||
-| 22 | []()| ||
+| 22 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)| ||
 | 22 | []()| ||
 | 22 | []()| ||
 | 22 | []()| ||
