@@ -56,7 +56,7 @@
 | 51 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)| ||
 | 52 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)| ||
 | 53 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)| ||
-| 22 | []()| ||
+| 54 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)| ||
 | 22 | []()| ||
 | 22 | []()| ||
 | 22 | []()| ||
