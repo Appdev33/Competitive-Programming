@@ -9,10 +9,10 @@
 | 4 | [Min XOR value](https://www.interviewbit.com/problems/min-xor-value/)| ||
 | 5 | [Allocate Books](https://www.interviewbit.com/problems/allocate-books/)| ||
 | 6 | [Kth Node From Middle](https://www.interviewbit.com/problems/kth-node-from-middle/)| ||
-| 5 | [Balanced Parantheses!](https://www.interviewbit.com/problems/balanced-parantheses/)| ||
-| 6 | [Even Reverse](https://www.interviewbit.com/problems/even-reverse/)| ||
-| 5 | [First non-repeating character in a stream of characters](https://www.interviewbit.com/problems/first-non-repeating-character-in-a-stream-of-characters/)| ||
-| 6 | []()| ||
+| 7 | [Balanced Parantheses!](https://www.interviewbit.com/problems/balanced-parantheses/)| ||
+| 8 | [Even Reverse](https://www.interviewbit.com/problems/even-reverse/)| ||
+| 9 | [First non-repeating character in a stream of characters](https://www.interviewbit.com/problems/first-non-repeating-character-in-a-stream-of-characters/)| ||
+| 10| [Redundant Braces](https://www.interviewbit.com/problems/redundant-braces/)| ||
 | 5 | []()| ||
 | 6 | []()| ||
 | 5 | []()| ||
