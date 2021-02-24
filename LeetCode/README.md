@@ -57,8 +57,8 @@
 | 52 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)| ||
 | 53 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)| ||
 | 54 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)| ||
-| 22 | []()| ||
-| 22 | []()| ||
+| 55 | [Baseball Game](https://leetcode.com/problems/baseball-game/)| ||
+| 56 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)| ||
 | 22 | []()| ||
 | 22 | []()| ||
 | 22 | []()| ||
