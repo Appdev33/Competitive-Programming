@@ -59,9 +59,9 @@
 | 54 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)| ||
 | 55 | [Baseball Game](https://leetcode.com/problems/baseball-game/)| ||
 | 56 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)| ||
-| 22 | []()| ||
-| 22 | []()| ||
-| 22 | []()| ||
+| 57 | [Add Two Numbers(Link List)](https://leetcode.com/problems/add-two-numbers/)| ||
+| 58 | [Make The String Great](https://leetcode.com/problems/make-the-string-great/)| ||
+| 59 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| ||
 | 22 | []()| ||
 | 22 | []()| ||
 | 22 | []()| ||
