@@ -1,1 +1,1 @@
-# Competitive-Programming
+# SPOJ Coding Problems
