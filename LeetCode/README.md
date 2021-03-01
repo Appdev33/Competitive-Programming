@@ -8,7 +8,7 @@
 | 4 | [Maximum of Absolute Value Expression](https://leetcode.com/submissions/detail/370983100/) |  |1. Remove Mod and check Possible equations<br> 2.Eliminate certain cases if possible||
 | 5 | [Trapping Rain Water](https://leetcode.com/submissions/detail/372669283/) |   |1. Create Prefix and Postfix Arrays for Man on either side<br> 2.Check Also two pointer approach||
 | 6 | [Greatest Common Divisor of Strings](https://leetcode.com/submissions/detail/428950547/)| | 1. Take help of length of two strings <br> 2.Largest size multiple  s=kpt t=pt  gcd =tx divides both means it is largest factor of both str1 and str2 ||
-| 7 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/submissions/detail/370983100/) | | |   ||
+| 7 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/submissions/detail/370983100/) | | | !. Remove mod and mathematically form and solve for all possible cases. ||
 | 9 | [Min Cost Climbing Stairs](https://leetcode.com/submissions/detail/428253411/) | |
 | 10 | [Intersection of Two Arrays II](https://leetcode.com/submissions/detail/427868455/) | |
 | 11 | [Number of 1 Bits](https://leetcode.com/submissions/detail/427497732/) |  ||
