@@ -1,1 +1,1 @@
-# Competitive-Programming
+# HackerRank HackerEarth Coding And Theory
