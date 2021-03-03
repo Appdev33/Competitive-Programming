@@ -63,7 +63,7 @@
 | 58 | [Make The String Great](https://leetcode.com/problems/make-the-string-great/)| ||
 | 59 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| ||
 | 60 | [Reorder List](https://leetcode.com/problems/reorder-list/)| ||
-| 22 | []()| ||
+| 61 | [Min Stack](https://leetcode.com/problems/min-stack/)| ||
 | 22 | []()| ||
 | 22 | []()| ||
 | 22 | []()| ||
