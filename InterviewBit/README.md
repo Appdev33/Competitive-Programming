@@ -13,8 +13,8 @@
 | 8 | [Even Reverse](https://www.interviewbit.com/problems/even-reverse/)| ||
 | 9 | [First non-repeating character in a stream of characters](https://www.interviewbit.com/problems/first-non-repeating-character-in-a-stream-of-characters/)| ||
 | 10| [Redundant Braces](https://www.interviewbit.com/problems/redundant-braces/)| ||
-| 5 | []()| ||
-| 6 | []()| ||
+| 11 | [Reverse Alternate K Nodes](https://www.interviewbit.com/problems/reverse-alternate-k-nodes/)| ||
+| 12 | [K reverse linked list](https://www.interviewbit.com/problems/k-reverse-linked-list/)| ||
 | 5 | []()| ||
 | 6 | []()| ||
 | 5 | []()| ||
