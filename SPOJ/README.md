@@ -1,1 +1,1 @@
-# SPOJ Coding Problems
+# SPOJ Coding Problems and Solutions
