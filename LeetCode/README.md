@@ -64,8 +64,8 @@
 | 59 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| ||
 | 60 | [Reorder List](https://leetcode.com/problems/reorder-list/)| ||
 | 61 | [Min Stack](https://leetcode.com/problems/min-stack/)| ||
-| 22 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)| ||
-| 22 | []()| ||
+| 62 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)| ||
+| 63 | [Pow(x, n)](https://leetcode.com/problems/powx-n/)| ||
 | 22 | []()| ||
 | 22 | []()| ||
 | 22 | []()| ||
