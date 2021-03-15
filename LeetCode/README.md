@@ -67,7 +67,7 @@
 | 62 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)| ||
 | 63 | [Pow(x, n)](https://leetcode.com/problems/powx-n/)| ||
 | 64 | [Subsets](https://leetcode.com/problems/subsets/)| ||
-| 22 | []()| ||
+| 65 | [Permutatations](https://leetcode.com/problems/permutations/)| ||
 | 22 | []()| ||
 | 22 | []()| ||
 | 22 | []()| ||
