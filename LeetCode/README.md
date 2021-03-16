@@ -68,8 +68,8 @@
 | 63 | [Pow(x, n)](https://leetcode.com/problems/powx-n/)| ||
 | 64 | [Subsets](https://leetcode.com/problems/subsets/)| ||
 | 65 | [Permutatations](https://leetcode.com/problems/permutations/)| ||
-| 22 | []()| ||
-| 22 | []()| ||
+| 66 | [String Compression](https://leetcode.com/problems/string-compression/)| ||
+| 67 | [Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/)| ||
 | 22 | []()| ||
 | 22 | []()| ||
 | 22 | []()| ||
