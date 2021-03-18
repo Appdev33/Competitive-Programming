@@ -70,9 +70,9 @@
 | 65 | [Permutatations](https://leetcode.com/problems/permutations/)| ||
 | 66 | [String Compression](https://leetcode.com/problems/string-compression/)| ||
 | 67 | [Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/)| ||
-| 22 | [Combinations](https://leetcode.com/problems/combinations/)| ||
-| 22 | []()| ||
-| 22 | []()| ||
+| 68 | [Combinations](https://leetcode.com/problems/combinations/)| ||
+| 69 | [Combination Sum](https://leetcode.com/problems/combination-sum/)| ||
+| 70 | [Subsets II](https://leetcode.com/problems/subsets-ii/)| ||
 | 22 | []()| ||
 | 22 | []()| ||
 | 22 | []()| ||
