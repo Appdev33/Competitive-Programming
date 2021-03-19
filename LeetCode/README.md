@@ -73,7 +73,7 @@
 | 68 | [Combinations](https://leetcode.com/problems/combinations/)| ||
 | 69 | [Combination Sum](https://leetcode.com/problems/combination-sum/)| ||
 | 70 | [Subsets II](https://leetcode.com/problems/subsets-ii/)| ||
-| 22 | []()| ||
+| 71 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| ||
 | 22 | []()| ||
 | 22 | []()| ||
 | 22 | []()| ||
