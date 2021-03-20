@@ -3,8 +3,8 @@
 
 This repository will contain the **Links to online judge platforms if the question is avaliable on a particular platform**. This would help to actually code and submit the solutions for all corner cases, before verifying from the book. Also, my Java Solutions to [Cracking the Coding Interview, 6th Edition](http://www.crackingthecodinginterview.com/).
 # Chapter 1 - Arrays & Strings
-| # | Title | Online Judge | My Solutions |
-|---| ----- | -------- | ---------- |
+| # | Title | Online Judge | 
+|---| ----- | -------- | 
 |1|Unique Characters|[GeeksforGeeks](https://www.geeksforgeeks.org/determine-string-unique-characters/)|[Java](cracking-the-coding-interview/Chapter1-Arrays&Strings/Question1.java)|
 |2|[String Permutation - GFG](https://www.geeksforgeeks.org/check-if-two-strings-are-permutation-of-each-other/)|[Leetcode-Medium](https://leetcode.com/problems/permutation-in-string/description/)|[Java](cracking-the-coding-interview/Chapter1-Arrays&Strings/Question2.java)|
 |3|Urlify|[GeeksforGeeks](https://www.geeksforgeeks.org/urlify-given-string-replace-spaces/)|[Java](cracking-the-coding-interview/Chapter1-Arrays&Strings/Question3.java)|
