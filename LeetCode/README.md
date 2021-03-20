@@ -1,7 +1,7 @@
 # Leet Code Solutions
 
-| # | Title | Solution | My Approach           |Time Complexity|
-|---| ----- | -------- | --------------------- | --------------|
+| # | Title | Solution | My Approach           |Time Complexity| My Ratings |
+|---| ----- | -------- | --------------------- | --------------| ------------|
 | 1 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/submissions/) |  | 1. Take Index for  start and end of row and column<br>2. On Traversing a row/Col remove it and decrease or Increase start and End of Corresponding row/Column||
 | 2 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/submissions/) |  | 1. Take Index for  start and end of row and column<br>2. On Traversing a row/Col remove it and decrease or Increase start and End of Corresponding row/Column||
 | 3 | [Shuffle The Array](https://leetcode.com/problems/shuffle-the-array/submissions/) |  |1. Take Array 2x size<br> 2. According increase index and place elements from two ends||
