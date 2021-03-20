@@ -1,23 +1,29 @@
 
-# Interview Bit Questions
+# Cracking the Coding Interview Problem Links
 
-| # | Title | Solution | My Approach |
-|---| ----- | -------- | --------------------- |
-| 1 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/submissions/) || 1. Take Index for  start and end of row and column<br>2. On Traversing a row/Col remove it and decrease or Increase start and End of Corresponding row/Column|
-| 2 | [Prime Sum](https://www.interviewbit.com/courses/programming/topics/math/problems/prime-sum/)| ||
-| 3 | [Largest Coprime Divisor](https://www.interviewbit.com/courses/programming/topics/math/problems/largest-coprime-divisor/)| ||
-| 4 | [Min XOR value](https://www.interviewbit.com/problems/min-xor-value/)| ||
-| 5 | [Allocate Books](https://www.interviewbit.com/problems/allocate-books/)| ||
-| 6 | [Kth Node From Middle](https://www.interviewbit.com/problems/kth-node-from-middle/)| ||
-| 7 | [Balanced Parantheses!](https://www.interviewbit.com/problems/balanced-parantheses/)| ||
-| 8 | [Even Reverse](https://www.interviewbit.com/problems/even-reverse/)| ||
-| 9 | [First non-repeating character in a stream of characters](https://www.interviewbit.com/problems/first-non-repeating-character-in-a-stream-of-characters/)| ||
-| 10| [Redundant Braces](https://www.interviewbit.com/problems/redundant-braces/)| ||
-| 11 | [Reverse Alternate K Nodes](https://www.interviewbit.com/problems/reverse-alternate-k-nodes/)| ||
-| 12 | [K reverse linked list](https://www.interviewbit.com/problems/k-reverse-linked-list/)| ||
-| 5 | []()| ||
-| 6 | []()| ||
-| 5 | []()| ||
-| 6 | []()| ||
-| 5 | []()| ||
-| 6 | []()| ||
+This repository will contain the **Links to online judge platforms if the question is avaliable on a particular platform**. This would help to actually code and submit the solutions for all corner cases, before verifying from the book. Also, my Java Solutions to [Cracking the Coding Interview, 6th Edition](http://www.crackingthecodinginterview.com/).
+# Chapter 1 - Arrays & Strings
+| # | Title | Online Judge | My Solutions |
+|---| ----- | -------- | ---------- |
+|1|Unique Characters|[GeeksforGeeks](https://www.geeksforgeeks.org/determine-string-unique-characters/)|[Java](cracking-the-coding-interview/Chapter1-Arrays&Strings/Question1.java)|
+|2|[String Permutation - GFG](https://www.geeksforgeeks.org/check-if-two-strings-are-permutation-of-each-other/)|[Leetcode-Medium](https://leetcode.com/problems/permutation-in-string/description/)|[Java](cracking-the-coding-interview/Chapter1-Arrays&Strings/Question2.java)|
+|3|Urlify|[GeeksforGeeks](https://www.geeksforgeeks.org/urlify-given-string-replace-spaces/)|[Java](cracking-the-coding-interview/Chapter1-Arrays&Strings/Question3.java)|
+|4|Palindrome Permutation|[Leetcode](https://leetcode.com/articles/palindrome-permutation/#solution)|[Java](cracking-the-coding-interview/Chapter1-Arrays&Strings/Question4.java)|
+|5|One Edit Away|[Leetcode-Hard](https://leetcode.com/problems/edit-distance/description/)|[Java](cracking-the-coding-interview/Chapter1-Arrays&Strings/Question5.java)|
+|6|String Compression|[Leetcode-Easy](https://leetcode.com/problems/string-compression/description/)|[Java](cracking-the-coding-interview/Chapter1-Arrays&Strings/Question6.java)|
+|7|Rotate Matrix|[Leetcode-Medium](https://leetcode.com/problems/rotate-image/description/)|[Java](cracking-the-coding-interview/Chapter1-Arrays&Strings/Question7.java)|
+|8|Zero Matrix|[Leetcode-Medium](https://leetcode.com/problems/set-matrix-zeroes/description/)|[Java](cracking-the-coding-interview/Chapter1-Arrays&Strings/Question8.java)|
+|9|String Rotation|[Leetcode-Easy](https://leetcode.com/problems/rotate-string/description/)|[Java](cracking-the-coding-interview/Chapter1-Arrays&Strings/Question8.java)|
+
+# Chapter 2 - Linked Lists
+| # | Title | Online Judge | My Solutions |
+|---| ----- | -------- | ---------- |
+|1|[Remove Duplicates - GFG](https://www.geeksforgeeks.org/remove-duplicates-from-an-unsorted-linked-list/)|[LeetCode-Medium](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/)|[Java](https://github.com/ahujaraman/competitive-coding-leetcode/tree/master/My-Solutions/remove-duplicates-from-sorted-list-ii.java)|
+|2|Kth element from Last|[LeetCode-Medium](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)|[Java](https://github.com/ahujaraman/competitive-coding-leetcode/blob/master/My-Solutions/remove-nth-node-from-end-of-list.java)|
+|3|Delete Middle Node|[LeetCode-Easy](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)|[Java](https://github.com/ahujaraman/competitive-coding-leetcode/blob/master/My-Solutions/delete-node-in-a-linked-list.java)|
+|5|Sum Lists|[LeetCode-Medium](https://leetcode.com/problems/add-two-numbers/description/)|[Java](https://github.com/ahujaraman/competitive-coding-leetcode/tree/master/My-Solutions/add-two-numbers.java)|
+|6|Palindrome|[LeetCode-Easy](https://leetcode.com/problems/palindrome-linked-list/description/)|[Java](https://github.com/ahujaraman/competitive-coding-leetcode/blob/master/My-Solutions/palindrome-linked-list.java)|
+|7|Intersection|[LeetCode-Easy](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)|[Java](https://github.com/ahujaraman/competitive-coding-leetcode/blob/master/My-Solutions/intersection-of-two-linked-lists.java)|
+|8|Loop Detection|[LeetCode-Easy](https://leetcode.com/problems/linked-list-cycle/description/)|[Java](https://github.com/ahujaraman/competitive-coding-leetcode/blob/master/My-Solutions/linked-list-cycle.java)|
+
+
