@@ -16,8 +16,8 @@ This repository will contain the **Links to online judge platforms if the questi
 |9|String Rotation|[Leetcode-Easy](https://leetcode.com/problems/rotate-string/description/)|[Java](cracking-the-coding-interview/Chapter1-Arrays&Strings/Question8.java)|
 
 # Chapter 2 - Linked Lists
-| # | Title | Online Judge | My Solutions |
-|---| ----- | -------- | ---------- |
+| # | Title | Online Judge | 
+|---| ----- | -------- | 
 |1|[Remove Duplicates - GFG](https://www.geeksforgeeks.org/remove-duplicates-from-an-unsorted-linked-list/)|[LeetCode-Medium](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/)|[Java](https://github.com/ahujaraman/competitive-coding-leetcode/tree/master/My-Solutions/remove-duplicates-from-sorted-list-ii.java)|
 |2|Kth element from Last|[LeetCode-Medium](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)|[Java](https://github.com/ahujaraman/competitive-coding-leetcode/blob/master/My-Solutions/remove-nth-node-from-end-of-list.java)|
 |3|Delete Middle Node|[LeetCode-Easy](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)|[Java](https://github.com/ahujaraman/competitive-coding-leetcode/blob/master/My-Solutions/delete-node-in-a-linked-list.java)|
