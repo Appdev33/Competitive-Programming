@@ -24,6 +24,38 @@ This repository will contain the **Links to online judge platforms if the questi
 |5|Sum Lists|[LeetCode-Medium](https://leetcode.com/problems/add-two-numbers/description/)|[Java](https://github.com/ahujaraman/competitive-coding-leetcode/tree/master/My-Solutions/add-two-numbers.java)|
 |6|Palindrome|[LeetCode-Easy](https://leetcode.com/problems/palindrome-linked-list/description/)|[Java](https://github.com/ahujaraman/competitive-coding-leetcode/blob/master/My-Solutions/palindrome-linked-list.java)|
 |7|Intersection|[LeetCode-Easy](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)|[Java](https://github.com/ahujaraman/competitive-coding-leetcode/blob/master/My-Solutions/intersection-of-two-linked-lists.java)|
-|8|Loop Detection|[LeetCode-Easy](https://leetcode.com/problems/linked-list-cycle/description/)|[Java](https://github.com/ahujaraman/competitive-coding-leetcode/blob/master/My-Solutions/linked-list-cycle.java)|
+|8|Loop Detection|[LeetCode-Easy](https://leetcode.com/problems/linked-list-cycle/description/)|[Java](https://github.com/ahujaraman/competitive-coding-leetcode/blob/master/My-Solutions/linked-l3st Stacks and Queues-
+
+# Chapter 3 - Stacks and Queues 
+| # | Title | Online Judge | My Solution |
+|---| ----- | -------- | ----------|
+| 1 |Stack of Plates |||
+| 2 |Queue via Stacks|||
+| 3 |Sort Stack      |||
+| 4 |Animal Shelter  |||
+
+# Chapter 4 - Trees and Graphs
+| # | Title | Online Judge | My Solution |
+|---| ----- | -------- | ----------|
+| 1 |Route Between Nodes |||
+| 2 |Minimal Tree |||
+| 3 |List if Depth |||
+| 4 |Check Balanced |||
+| 5 |Validate BSR |||
+| 6 |Successor |||
+| 7 |Build Order |||
+| 8 |First Common Ancestor |||
+| 9 |BST Sequences |||
+| 10 |Check Subtree |||
+| 11 |Random Node |||
+| 12 |Paths with Sum |||
+
+
+
+
+
+
+
+
 
 
