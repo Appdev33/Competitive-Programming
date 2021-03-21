@@ -74,7 +74,7 @@
 | 69 | [Combination Sum](https://leetcode.com/problems/combination-sum/)| ||
 | 70 | [Subsets II](https://leetcode.com/problems/subsets-ii/)| ||
 | 71 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| ||
-| 22 | []()| ||
+| 72 | [Rotate String](https://leetcode.com/problems/rotate-string/)| ||
 | 22 | []()| ||
 | 22 | []()| ||
 | 22 | []()| ||
