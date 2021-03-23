@@ -76,7 +76,7 @@
 | 71 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| ||
 | 72 | [Rotate String](https://leetcode.com/problems/rotate-string/)| ||
 | 73 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)| ||
-| 22 | []()| ||
+| 22 | [Two Sum](https://leetcode.com/problems/two-sum/)| ||
 | 22 | []()| ||
 | 22 | []()| ||
 | 22 | []()| ||
