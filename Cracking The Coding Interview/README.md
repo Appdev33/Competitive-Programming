@@ -1,7 +1,8 @@
 
 # Cracking the Coding Interview Problem Links
 
-This repository will contain the **Links to online judge platforms if the question is avaliable on a particular platform**. [Cracking the Coding Interview, 6th Edition](http://www.crackingthecodinginterview.com/).
+This repository will contain the **Links to online judge platforms if the question is avaliable on a particular platform**. 
+[Cracking the Coding Interview, 6th Edition](http://www.crackingthecodinginterview.com/).
 # Chapter 1 - Arrays & Strings
 | # | Title | Online Judge | My Solution |
 |---| ----- | -------- | ----------|
