@@ -25,7 +25,7 @@ This repository will contain the **Links to online judge platforms if the questi
 |5|Sum Lists|[LeetCode-Medium](https://leetcode.com/problems/add-two-numbers/description/)||
 |6|Palindrome|[LeetCode-Easy](https://leetcode.com/problems/palindrome-linked-list/description/)||
 |7|Intersection|[LeetCode-Easy](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)||
-|8|Loop Detection|[LeetCode-Easy](https://leetcode.com/problems/linked-list-cycle/description/)| Stacks and Queues-
+|8|Loop Detection|[LeetCode-Easy](https://leetcode.com/problems/linked-list-cycle/description/)||
 
 # Chapter 3 - Stacks and Queues 
 | # | Title | Online Judge | My Solution |
