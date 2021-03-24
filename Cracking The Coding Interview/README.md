@@ -7,7 +7,7 @@ This repository will contain the **Links to online judge platforms if the questi
 | # | Title | Online Judge | My Solution |
 |---| ----- | -------- | ----------|
 |1|Unique Characters|[GeeksforGeeks](https://www.geeksforgeeks.org/determine-string-unique-characters/)||
-|2|[String Permutation - GFG](https://www.geeksforgeeks.org/check-if-two-strings-are-permutation-of-each-other/)|[Leetcode-Medium](https://leetcode.com/problems/permutation-in-string/description/)|://leetcode.com/problems/permutation-in-string/)|
+|2|[String Permutation - GFG](https://www.geeksforgeeks.org/check-if-two-strings-are-permutation-of-each-other/)|[Leetcode-Medium](https://leetcode.com/problems/permutation-in-string/description/)||
 |3|Urlify|[GeeksforGeeks](https://www.geeksforgeeks.org/urlify-given-string-replace-spaces/)||
 |4|Palindrome Permutation|[Leetcode](https://leetcode.com/articles/palindrome-permutation/#solution)||
 |5|One Edit Away|[Leetcode-Hard](https://leetcode.com/problems/edit-distance/description/)||
@@ -19,13 +19,13 @@ This repository will contain the **Links to online judge platforms if the questi
 # Chapter 2 - Linked Lists
 | # | Title | Online Judge | My solution |
 |---| ----- | -------- | --------|
-|1|[Remove Duplicates - GFG](https://www.geeksforgeeks.org/remove-duplicates-from-an-unsorted-linked-list/)|[LeetCode-Medium](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/)|://github.com/ahujaraman/competitive-coding-leetcode/tree/master/My-Solutions/remove-duplicates-from-sorted-list-ii.java)|
-|2|Kth element from Last|[LeetCode-Medium](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)|://github.com/ahujaraman/competitive-coding-leetcode/blob/master/My-Solutions/remove-nth-node-from-end-of-list.java)|
-|3|Delete Middle Node|[LeetCode-Easy](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)|://github.com/ahujaraman/competitive-coding-leetcode/blob/master/My-Solutions/delete-node-in-a-linked-list.java)|
-|5|Sum Lists|[LeetCode-Medium](https://leetcode.com/problems/add-two-numbers/description/)|://github.com/ahujaraman/competitive-coding-leetcode/tree/master/My-Solutions/add-two-numbers.java)|
-|6|Palindrome|[LeetCode-Easy](https://leetcode.com/problems/palindrome-linked-list/description/)|://github.com/ahujaraman/competitive-coding-leetcode/blob/master/My-Solutions/palindrome-linked-list.java)|
-|7|Intersection|[LeetCode-Easy](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)|://github.com/ahujaraman/competitive-coding-leetcode/blob/master/My-Solutions/intersection-of-two-linked-lists.java)|
-|8|Loop Detection|[LeetCode-Easy](https://leetcode.com/problems/linked-list-cycle/description/)|://github.com/ahujaraman/competitive-coding-leetcode/blob/master/My-Solutions/linked-l3st Stacks and Queues-
+|1|[Remove Duplicates - GFG](https://www.geeksforgeeks.org/remove-duplicates-from-an-unsorted-linked-list/)|[LeetCode-Medium](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/)||
+|2|Kth element from Last|[LeetCode-Medium](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)||
+|3|Delete Middle Node|[LeetCode-Easy](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)||
+|5|Sum Lists|[LeetCode-Medium](https://leetcode.com/problems/add-two-numbers/description/)||
+|6|Palindrome|[LeetCode-Easy](https://leetcode.com/problems/palindrome-linked-list/description/)||
+|7|Intersection|[LeetCode-Easy](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)||
+|8|Loop Detection|[LeetCode-Easy](https://leetcode.com/problems/linked-list-cycle/description/)| Stacks and Queues-
 
 # Chapter 3 - Stacks and Queues 
 | # | Title | Online Judge | My Solution |
