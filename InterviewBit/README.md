@@ -15,9 +15,35 @@
 | 10| [Redundant Braces](https://www.interviewbit.com/problems/redundant-braces/)| ||
 | 11 | [Reverse Alternate K Nodes](https://www.interviewbit.com/problems/reverse-alternate-k-nodes/)| ||
 | 12 | [K reverse linked list](https://www.interviewbit.com/problems/k-reverse-linked-list/)| ||
-| 5 | []()| ||
+| 13 | [2-sum](https://www.interviewbit.com/problems/2-sum/)| ||
+| 14 | [MAXSPPROD](https://www.interviewbit.com/problems/maxspprod/)| ||
 | 6 | []()| ||
 | 5 | []()| ||
 | 6 | []()| ||
 | 5 | []()| ||
 | 6 | []()| ||
+| 6 | []()| ||
+| 5 | []()| ||
+| 6 | []()| ||
+| 5 | []()| ||
+| 6 | []()| ||
+| 5 | []()| ||
+| 6 | []()| ||
+| 5 | []()| ||
+| 6 | []()| ||
+| 6 | []()| ||
+| 5 | []()| ||
+| 6 | []()| ||
+| 5 | []()| ||
+| 6 | []()| ||
+| 6 | []()| ||
+| 5 | []()| ||
+| 6 | []()| ||
+| 5 | []()| ||
+| 6 | []()| ||
+| 6 | []()| ||
+| 5 | []()| ||
+| 6 | []()| ||
+| 5 | []()| ||
+| 6 | []()| ||
+
