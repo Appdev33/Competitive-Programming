@@ -30,10 +30,12 @@ This repository will contain the **Links to online judge platforms if the questi
 # Chapter 3 - Stacks and Queues 
 | # | Title | Online Judge | My Solution |
 |---| ----- | -------- | ----------|
-| 1 |Stack of Plates |||
-| 2 |Queue via Stacks|||
-| 3 |Sort Stack      |||
-| 4 |Animal Shelter  |||
+| 1 |Three in One |||
+| 2 |Stack Min |||
+| 3 |Stack of Plates |||
+| 4 |Queue via Stacks|||
+| 5 |Sort Stack      |||
+| 6 |Animal Shelter  |||
 
 # Chapter 4 - Trees and Graphs
 | # | Title | Online Judge | My Solution |
