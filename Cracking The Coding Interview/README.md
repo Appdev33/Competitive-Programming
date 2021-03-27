@@ -31,7 +31,7 @@ Link to Official Solution [Solutions](https://github.com/careercup/CtCI-6th-Edit
 # Chapter 3 - Stacks and Queues 
 | # | Title | Online Judge | My Solution |
 |---| ----- | -------- | ----------|
-| 1 |Three in One |||
+| 1 |Three in One |[GFG](https://www.geeksforgeeks.org/efficiently-implement-k-stacks-single-array/)||
 | 2 |Stack Min |||
 | 3 |Stack of Plates |||
 | 4 |Queue via Stacks|||
