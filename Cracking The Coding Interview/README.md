@@ -32,8 +32,8 @@ Link to Official Solution [Solutions](https://github.com/careercup/CtCI-6th-Edit
 | # | Title | Online Judge | My Solution |
 |---| ----- | -------- | ----------|
 | 1 |Three in One |[GFG](https://www.geeksforgeeks.org/efficiently-implement-k-stacks-single-array/)||
-| 2 |Stack Min |||
-| 3 |Stack of Plates |||
+| 2 |Stack Min |[Leetcode](https://leetcode.com/problems/min-stack/)|[Java](https://leetcode.com/submissions/detail/462938900/)|
+| 3 |Stack of Plates |[Leetcode](https://leetcode.com/problems/dinner-plate-stacks/)||
 | 4 |Queue via Stacks|||
 | 5 |Sort Stack      |||
 | 6 |Animal Shelter  |||
