@@ -76,11 +76,11 @@
 | 71 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| ||
 | 72 | [Rotate String](https://leetcode.com/problems/rotate-string/)| ||
 | 73 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)| ||
-| 22 | [Two Sum](https://leetcode.com/problems/two-sum/)| ||
-| 22 | []()| ||
-| 22 | []()| ||
-| 22 | []()| ||
-| 22 | []()| ||
+| 74 | [Two Sum](https://leetcode.com/problems/two-sum/)| ||
+| 75 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)| ||
+| 76 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/)| ||
+| 77 | [Rotate Image](https://leetcode.com/problems/rotate-image/)| ||
+| 78 | [Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)| ||
 | 22 | []()| ||
 | 22 | []()| ||
 | 22 | []()| ||
