@@ -17,7 +17,7 @@
 | 12 | [K reverse linked list](https://www.interviewbit.com/problems/k-reverse-linked-list/)| ||
 | 13 | [2-sum](https://www.interviewbit.com/problems/2-sum/)| ||
 | 14 | [MAXSPPROD](https://www.interviewbit.com/problems/maxspprod/)| ||
-| 6 | []()| ||
+| 15 | [Diffk](https://www.interviewbit.com/problems/diffk-ii/)| ||
 | 5 | []()| ||
 | 6 | []()| ||
 | 5 | []()| ||
