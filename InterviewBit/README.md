@@ -18,7 +18,7 @@
 | 13 | [2-sum](https://www.interviewbit.com/problems/2-sum/)| ||
 | 14 | [MAXSPPROD](https://www.interviewbit.com/problems/maxspprod/)| ||
 | 15 | [Diffk](https://www.interviewbit.com/problems/diffk-ii/)| ||
-| 16 | [Maximal String](https://www.interviewbit.com/problems/maximal-string/)| |1. Two case arise for next index > current then swap<br> 2. When next index < current then do not swap, but B swaps still available for remaining<br> 3. Use Backtracking to solve this|
+| 16 | [Maximal String](https://www.interviewbit.com/problems/maximal-string/)| |1. Two case arise for next index > current then swap<br> 2. When next index <= current then do not swap, but B swaps still available for remaining<br> 3. Use Backtracking to solve this|
 | 6 | []()| ||
 | 5 | []()| ||
 | 5 | []()| ||
