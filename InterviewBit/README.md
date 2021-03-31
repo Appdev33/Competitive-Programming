@@ -18,7 +18,7 @@
 | 13 | [2-sum](https://www.interviewbit.com/problems/2-sum/)| ||
 | 14 | [MAXSPPROD](https://www.interviewbit.com/problems/maxspprod/)| ||
 | 15 | [Diffk](https://www.interviewbit.com/problems/diffk-ii/)| ||
-| 5 | []()| ||
+| 16 | [Maximal String](https://www.interviewbit.com/problems/maximal-string/)| ||
 | 6 | []()| ||
 | 5 | []()| ||
 | 5 | []()| ||
