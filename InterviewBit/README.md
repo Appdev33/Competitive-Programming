@@ -17,7 +17,7 @@
 | 12 | [K reverse linked list](https://www.interviewbit.com/problems/k-reverse-linked-list/)| ||
 | 13 | [2-sum](https://www.interviewbit.com/problems/2-sum/)| ||
 | 14 | [MAXSPPROD](https://www.interviewbit.com/problems/maxspprod/)| ||
-| 15 | [Diffk](https://www.interviewbit.com/problems/diffk-ii/)| ||
+| 15 | [Diffk](https://www.interviewbit.com/problems/diffk-ii/)| |1. Since K>=0 two case arise mod(A-B)= k <br> 2. hence two scenarios are A = B+k && A =B-k <br> 3. Put is ArrayList and check for above two cases presence. |
 | 16 | [Maximal String](https://www.interviewbit.com/problems/maximal-string/)| |1. Two case arise for next index > current then swap 897 -- 987 <br> 2. When next index <= current then do not swap, but B swaps still available for remaining 987/997 --> 987/997 <br> 3. Use Backtracking to solve this|
 | 6 | []()| ||
 | 5 | []()| ||
