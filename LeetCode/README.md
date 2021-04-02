@@ -79,7 +79,7 @@
 | 74 | [Two Sum](https://leetcode.com/problems/two-sum/)| ||
 | 75 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)| ||
 | 76 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/)| ||
-| 77 | [Rotate Image](https://leetcode.com/problems/rotate-image/)| ||
+| 77 | [Rotate Image](https://leetcode.com/problems/rotate-image/)| |1. Swap along x axis line then Transpose matrix (y=x line)(clockwise rotation) <br> 2. Swap along y axis line then Transpose matrix (y=x line)(anti-clockwise rotation)<br> |
 | 78 | [Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)| ||
 | 79 | []()| ||
 | 22 | []()| ||
