@@ -21,7 +21,7 @@
 | 16 | [Maximal String](https://www.interviewbit.com/problems/maximal-string/)| |1. Two case arise for next index > current then swap 897 -- 987 <br> 2. When next index <= current then do not swap, but B swaps still available for remaining 987/997 --> 987/997 <br> 3. Use Backtracking to solve this|
 | 17 | [Pairs With Given Xor](https://www.interviewbit.com/problems/pairs-with-given-xor/)| ||
 | 18 | [Two out of Three](https://www.interviewbit.com/problems/two-out-of-three/)| ||
-| 5 | []()| ||
+| 19 | [Subarray With Given Xor](https://www.interviewbit.com/problems/subarray-with-given-xor/)| ||
 | 6 | []()| ||
 | 5 | []()| ||
 | 6 | []()| ||
