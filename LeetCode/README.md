@@ -83,7 +83,7 @@
 | 78 | [Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)| ||
 | 79 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)| ||
 | 80 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)| ||
-| 22 | []()| ||
+| 81 | [Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)| ||
 | 22 | []()| ||
 | 22 | []()| ||
 | 22 | []()| ||
