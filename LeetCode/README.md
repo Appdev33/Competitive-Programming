@@ -84,8 +84,8 @@
 | 79 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)| ||
 | 80 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)| ||
 | 81 | [Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)| ||
-| 22 | []()| ||
-| 22 | []()| ||
+| 82 | [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/)| ||
+| 83 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)| ||
 | 22 | []()| ||
 | 22 | []()| ||
 | 22 | []()| ||
