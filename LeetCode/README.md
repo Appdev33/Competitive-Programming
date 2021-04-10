@@ -86,7 +86,7 @@
 | 81 | [Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)| ||
 | 82 | [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/)| ||
 | 83 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)| ||
-| 22 | []()| ||
+| 84 | [Dinner Plate Stacks](https://leetcode.com/problems/dinner-plate-stacks/)| ||
 | 22 | []()| ||
 | 22 | []()| ||
 | 22 | []()| ||
