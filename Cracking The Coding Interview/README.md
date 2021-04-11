@@ -12,10 +12,10 @@ Link to Official Solution [Solutions](https://github.com/careercup/CtCI-6th-Edit
 |3|Urlify|[GeeksforGeeks](https://www.geeksforgeeks.org/urlify-given-string-replace-spaces/)||
 |4|Palindrome Permutation|[Leetcode](https://leetcode.com/articles/palindrome-permutation/#solution)||
 |5|One Edit Away|[Leetcode-Hard](https://leetcode.com/problems/edit-distance/description/)||
-|6|String Compression|[Leetcode-Easy](https://leetcode.com/problems/string-compression/description/)||
+|6|String Compression|[Leetcode-Easy](https://leetcode.com/problems/string-compression/description/)|[Java](https://leetcode.com/problems/string-compression/description/)|
 |7|Rotate Matrix|[Leetcode-Medium](https://leetcode.com/problems/rotate-image/description/)|[Java](https://leetcode.com/problems/rotate-image/)|
-|8|Zero Matrix|[Leetcode-Medium](https://leetcode.com/problems/set-matrix-zeroes/description/)||
-|9|String Rotation|[Leetcode-Easy](https://leetcode.com/problems/rotate-string/description/)||
+|8|Zero Matrix|[Leetcode-Medium](https://leetcode.com/problems/set-matrix-zeroes/description/)|[Java](https://leetcode.com/problems/set-matrix-zeroes/description/)|
+|9|String Rotation|[Leetcode-Easy](https://leetcode.com/problems/rotate-string/description/)|[Java](https://leetcode.com/problems/rotate-string/description/)|
 
 # Chapter 2 - Linked Lists
 | # | Title | Online Judge | My solution |
