@@ -35,7 +35,7 @@ Link to Official Solution [Solutions](https://github.com/careercup/CtCI-6th-Edit
 | 2 |Stack Min |[Leetcode](https://leetcode.com/problems/min-stack/)|[Java](https://leetcode.com/submissions/detail/462938900/)|
 | 3 |Stack of Plates |[Leetcode](https://leetcode.com/problems/dinner-plate-stacks/)|[Java](https://leetcode.com/problems/dinner-plate-stacks/)|
 | 4 |Queue via Stacks|[Leetcode](https://leetcode.com/problems/implement-queue-using-stacks/)|[Java](https://leetcode.com/problems/implement-queue-using-stacks/submissions/)|
-| 5 |Sort Stack      |||
+| 5 |Sort Stack      |[GFG](https://www.geeksforgeeks.org/sort-stack-using-temporary-stack/)|[Java](https://github.com/Appdev33/CtCI-6th-Edition/blob/master/Java/Ch%2003.%20Stacks%20and%20Queues/Q3_05_Sort_Stack/Question.java)|
 | 6 |Animal Shelter  |||
 
 # Chapter 4 - Trees and Graphs
