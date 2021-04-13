@@ -87,8 +87,8 @@
 | 82 | [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/)| ||
 | 83 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)| ||
 | 84 | [Dinner Plate Stacks](https://leetcode.com/problems/dinner-plate-stacks/)| ||
-| 22 | []()| ||
-| 22 | []()| ||
+| 85 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)| ||
+| 86 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| ||
 | 22 | []()| ||
 | 22 | []()| ||
 | 22 | []()| ||
