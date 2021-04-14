@@ -89,8 +89,8 @@
 | 84 | [Dinner Plate Stacks](https://leetcode.com/problems/dinner-plate-stacks/)| ||
 | 85 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)| ||
 | 86 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| ||
-| 22 | []()| ||
-| 22 | []()| ||
+| 87 | [Word Search](https://leetcode.com/problems/word-search/)| ||
+| 88 | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)| ||
 | 22 | []()| ||
 | 22 | []()| ||
 | 22 | []()| ||
