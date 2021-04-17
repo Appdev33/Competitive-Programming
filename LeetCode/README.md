@@ -91,8 +91,8 @@
 | 86 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| ||
 | 87 | [Word Search](https://leetcode.com/problems/word-search/)| ||
 | 88 | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)| ||
-| 22 | []()| ||
-| 22 | []()| ||
+| 89 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)| ||
+| 90 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)| ||
 | 22 | []()| ||
 | 22 | []()| ||
 | 22 | []()| ||
