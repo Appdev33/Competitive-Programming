@@ -55,7 +55,7 @@ Link to Official Solution [Solutions](https://github.com/careercup/CtCI-6th-Edit
 | 12 |Paths with Sum |||
 
 
-# Chapter 4 - Bit Manupilation
+# Chapter 5 - Bit Manupilation
 | # | Title | Online Judge | My Solution |
 |---| ----- | -------- | ----------|
 | 1 |Insertion |||
