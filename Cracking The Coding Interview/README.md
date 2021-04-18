@@ -55,6 +55,22 @@ Link to Official Solution [Solutions](https://github.com/careercup/CtCI-6th-Edit
 | 12 |Paths with Sum |||
 
 
+# Chapter 4 - Bit Manupilation
+| # | Title | Online Judge | My Solution |
+|---| ----- | -------- | ----------|
+| 1 |Insertion |||
+| 5 |Binary to String |||
+| 3 |Flip Bit to Win |||
+| 4 |Next Number |||
+| 5 |Debugger |||
+| 6 |Conversion |||
+| 7 |Pairwise swap |||
+| 8 |Draw Line |||
+
+
+
+
+
 
 
 
