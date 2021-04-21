@@ -60,7 +60,7 @@ Link to Official Solution [Solutions](https://github.com/careercup/CtCI-6th-Edit
 |---| ----- | -------- | ----------|
 | 1 |Insertion |||
 | 5 |Binary to String |||
-| 3 |Flip Bit to Win |||
+| 3 |Flip Bit to Win ||[Java](https://ide.geeksforgeeks.org/KLET8atniQ)|
 | 4 |Next Number |||
 | 5 |Debugger |||
 | 6 |Conversion |||
