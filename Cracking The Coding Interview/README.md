@@ -62,7 +62,7 @@ Link to Official Solution [Solutions](https://github.com/careercup/CtCI-6th-Edit
 | 5 |Binary to String |||
 | 3 |Flip Bit to Win ||[Java](https://ide.geeksforgeeks.org/KLET8atniQ) [Java](http://www.yujinc.com/5-3-flip-bit-to-win-cci/)|
 | 4 |Next Number |||
-| 5 |Debugger |||
+| 5 |Debugger ||[StackOverflow](https://stackoverflow.com/questions/4678333/n-n-1-what-does-this-expression-do)|
 | 6 |Conversion |||
 | 7 |Pairwise swap |||
 | 8 |Draw Line |||
