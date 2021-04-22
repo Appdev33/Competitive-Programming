@@ -25,7 +25,7 @@ Link to Official Solution [Solutions](https://github.com/careercup/CtCI-6th-Edit
 |3|Delete Middle Node|[LeetCode-Easy](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)|[Java]()|
 |5|Sum Lists|[LeetCode-Medium](https://leetcode.com/problems/add-two-numbers/description/)|[Java](https://leetcode.com/problems/add-two-numbers/)|
 |6|Palindrome|[LeetCode-Easy](https://leetcode.com/problems/palindrome-linked-list/description/)|[Java](https://leetcode.com/problems/palindrome-linked-list/)|
-|7|Intersection|[LeetCode-Easy](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)||
+|7|Intersection|[LeetCode-Easy](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)|[Java](https://leetcode.com/submissions/detail/450976218/)|
 |8|Loop Detection|[LeetCode-Easy](https://leetcode.com/problems/linked-list-cycle/description/)|[Java](https://leetcode.com/problems/linked-list-cycle/)|
 
 # Chapter 3 - Stacks and Queues 
