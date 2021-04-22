@@ -20,13 +20,13 @@ Link to Official Solution [Solutions](https://github.com/careercup/CtCI-6th-Edit
 # Chapter 2 - Linked Lists
 | # | Title | Online Judge | My solution |
 |---| ----- | -------- | --------|
-|1|[Remove Duplicates - GFG](https://www.geeksforgeeks.org/remove-duplicates-from-an-unsorted-linked-list/)|[LeetCode-Medium](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/)||
-|2|Kth element from Last|[LeetCode-Medium](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)||
-|3|Delete Middle Node|[LeetCode-Easy](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)||
-|5|Sum Lists|[LeetCode-Medium](https://leetcode.com/problems/add-two-numbers/description/)||
-|6|Palindrome|[LeetCode-Easy](https://leetcode.com/problems/palindrome-linked-list/description/)||
+|1|[Remove Duplicates - GFG](https://www.geeksforgeeks.org/remove-duplicates-from-an-unsorted-linked-list/)|[LeetCode-Medium](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/)|[Java](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|
+|2|Kth element from Last|[LeetCode-Medium](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)|[Java](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|
+|3|Delete Middle Node|[LeetCode-Easy](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)|[Java]()|
+|5|Sum Lists|[LeetCode-Medium](https://leetcode.com/problems/add-two-numbers/description/)|[Java](https://leetcode.com/problems/add-two-numbers/)|
+|6|Palindrome|[LeetCode-Easy](https://leetcode.com/problems/palindrome-linked-list/description/)|[Java](https://leetcode.com/problems/palindrome-linked-list/)|
 |7|Intersection|[LeetCode-Easy](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)||
-|8|Loop Detection|[LeetCode-Easy](https://leetcode.com/problems/linked-list-cycle/description/)||
+|8|Loop Detection|[LeetCode-Easy](https://leetcode.com/problems/linked-list-cycle/description/)|[Java](https://leetcode.com/problems/linked-list-cycle/)|
 
 # Chapter 3 - Stacks and Queues 
 | # | Title | Online Judge | My Solution |
