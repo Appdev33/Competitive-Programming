@@ -95,8 +95,8 @@
 | 90 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)| ||
 | 91 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)| ||
 | 92 | [4Sum](https://leetcode.com/problems/4sum/)| ||
-| 22 | []()| ||
-| 22 | []()| ||
+| 93 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)| ||
+| 94 | [Sort Colors](https://leetcode.com/problems/sort-colors/)| ||
 | 22 | []()| ||
 | 22 | []()| ||
 | 22 | []()| ||
