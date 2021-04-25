@@ -23,7 +23,7 @@
 | 18 | [Two out of Three](https://www.interviewbit.com/problems/two-out-of-three/)| ||
 | 19 | [Subarray With Given Xor](https://www.interviewbit.com/problems/subarray-with-given-xor/)| ||
 | 20 | [Subarray with B odd numbers](https://www.interviewbit.com/problems/subarray-with-b-odd-numbers/)| ||
-| 5 | []()| ||
+| 21 | [Equal](https://www.interviewbit.com/problems/equal/)| ||
 | 6 | []()| ||
 | 5 | []()| ||
 | 6 | []()| ||
