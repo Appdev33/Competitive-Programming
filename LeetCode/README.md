@@ -97,9 +97,9 @@
 | 92 | [4Sum](https://leetcode.com/problems/4sum/)| ||
 | 93 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)| ||
 | 94 | [Sort Colors](https://leetcode.com/problems/sort-colors/)| ||
-| 22 | []()| ||
-| 22 | []()| ||
-| 22 | []()| ||
+| 95 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)| ||
+| 96 | [Gray Code](https://leetcode.com/problems/gray-code/)| ||
+| 97 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)| ||
 | 22 | []()| ||
 | 22 | []()| ||
 | 22 | []()| ||
