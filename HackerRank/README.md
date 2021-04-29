@@ -1,5 +1,9 @@
-# GFG & HackerRank  &HackerEarth Coding And Theory
+# GFG & HackerRank  & HackerEarth Coding And Theory
 
+
+| # | Platform |Title | Solution | My Approach           |Time Complexity| My Ratings |
+|---| -----------|----- | -------- | --------------------- | --------------| ------------|
+| 1 | GFG|[Maximum height of the staircase](https://practice.geeksforgeeks.org/problems/maximum-height-of-the-staircase5755/1#) |  | ||
 
 
 
