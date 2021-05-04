@@ -2,8 +2,8 @@
 # Solutions to Cracking the Coding Interview Problems
 
 This repository will contain the **Links to online judge platforms if the question is avaliable on a particular platform**. <br>
-**[Cracking the Coding Interview, 6th Edition Website](http://www.crackingthecodinginterview.com/).<br>
-**[Link to Official Solutions](https://github.com/careercup/CtCI-6th-Edition)
+**[Cracking the Coding Interview, 6th Edition Website]**(http://www.crackingthecodinginterview.com/).<br>
+**[Link to Official Solutions]**(https://github.com/careercup/CtCI-6th-Edition)
 
 
 # Chapter 1 - Arrays & Strings
