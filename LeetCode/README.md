@@ -100,8 +100,8 @@
 | 95 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)| ||
 | 96 | [Gray Code](https://leetcode.com/problems/gray-code/)| ||
 | 97 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)| ||
-| 22 | []()| ||
-| 22 | []()| ||
+| 98 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)| ||
+| 99 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)| ||
 | 22 | []()| ||
 | 22 | []()| ||
 | 22 | []()| ||
