@@ -1,5 +1,5 @@
 
-# Cracking the Coding Interview Problem Links
+# Solutions to Cracking the Coding Interview Problems
 
 This repository will contain the **Links to online judge platforms if the question is avaliable on a particular platform**. <br>
 [Cracking the Coding Interview, 6th Edition](http://www.crackingthecodinginterview.com/).<br>
