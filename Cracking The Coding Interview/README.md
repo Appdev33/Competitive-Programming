@@ -59,13 +59,62 @@ Link to Official Solution [Solutions](https://github.com/careercup/CtCI-6th-Edit
 | # | Title | Online Judge | My Solution |
 |---| ----- | -------- | ----------|
 | 1 |Insertion |||
-| 5 |Binary to String |||
+| 2 |Binary to String |||
 | 3 |Flip Bit to Win ||[Java](https://ide.geeksforgeeks.org/KLET8atniQ) [Java](http://www.yujinc.com/5-3-flip-bit-to-win-cci/)|
 | 4 |Next Number |||
 | 5 |Debugger ||[StackOverflow](https://stackoverflow.com/questions/4678333/n-n-1-what-does-this-expression-do)|
 | 6 |Conversion |||
 | 7 |Pairwise swap |||
 | 8 |Draw Line |||
+
+
+# Chapter 6 - Maths and Logic Puzzles
+| # | Title | Online Judge | My Solution |
+|---| ----- | -------- | ----------|
+| 1 |The Heavy Pill |||
+| 2 |BasketBall |||
+| 3 |Dominos |||
+| 4 |Ants on a Triangle |||
+| 5 |Jugs of Water |||
+| 6 |Blue-Eyed Island |||
+| 7 |The Apocalyspse |||
+| 8 | The Egg Drop Problem |||
+| 9 |100 Lockers |||
+| 10 |Poison |||
+
+
+# Chapter 7 - Object Oriented Design
+| # | Title | Online Judge | My Solution |
+|---| ----- | -------- | ----------|
+| 1 |Deck of Cards |||
+| 2 |Call Center |||
+| 3 |Jukebox |||
+| 4 |Parking Lot |||
+| 5 |Online Book Reader |||
+| 6 |Jigsaw |||
+| 7 |Chat Server |||
+| 8 |Othello |||
+| 9 |Circular Array |||
+| 10 |Minesweeper |||
+| 11 |File System |||
+| 12 |Hash Table |||
+
+
+# Chapter 8 - Bit Manupilation
+| # | Title | Online Judge | My Solution |
+|---| ----- | -------- | ----------|
+| 1 |Insertion |||
+| 1 |Insertion |||
+| 1 |Insertion |||
+| 1 |Insertion |||
+| 1 |Insertion |||
+| 1 |Insertion |||
+| 1 |Insertion |||
+| 1 |Insertion |||
+| 1 |Insertion |||
+| 1 |Insertion |||
+| 1 |Insertion |||
+| 1 |Insertion |||
 
 
 
