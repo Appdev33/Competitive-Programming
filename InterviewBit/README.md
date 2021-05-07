@@ -24,8 +24,8 @@
 | 19 | [Subarray With Given Xor](https://www.interviewbit.com/problems/subarray-with-given-xor/)| ||
 | 20 | [Subarray with B odd numbers](https://www.interviewbit.com/problems/subarray-with-b-odd-numbers/)| ||
 | 21 | [Equal](https://www.interviewbit.com/problems/equal/)| ||
-| 6 | []()| ||
-| 5 | []()| ||
+| 22 | [Colorful Number](https://www.interviewbit.com/problems/colorful-number/)| ||
+| 23| [An Increment Problem](https://www.interviewbit.com/problems/an-increment-problem/)| ||
 | 6 | []()| ||
 | 6 | []()| ||
 | 5 | []()| ||
