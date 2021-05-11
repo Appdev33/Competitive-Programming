@@ -26,7 +26,7 @@
 | 21 | [Equal](https://www.interviewbit.com/problems/equal/)| ||
 | 22 | [Colorful Number](https://www.interviewbit.com/problems/colorful-number/)| ||
 | 23| [An Increment Problem](https://www.interviewbit.com/problems/an-increment-problem/)| ||
-| 6 | []()| ||
+| 24 | [Longest Substring Without Repeat](https://www.interviewbit.com/problems/longest-substring-without-repeat/)| ||
 | 6 | []()| ||
 | 5 | []()| ||
 | 6 | []()| ||
