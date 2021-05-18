@@ -65,7 +65,7 @@ This repository will contain the **Links to online judge platforms if the questi
 | 3 |Flip Bit to Win ||[Java](https://ide.geeksforgeeks.org/KLET8atniQ) [Java](http://www.yujinc.com/5-3-flip-bit-to-win-cci/)|
 | 4 |Next Number |||
 | 5 |Debugger ||[StackOverflow](https://stackoverflow.com/questions/4678333/n-n-1-what-does-this-expression-do)|
-| 6 |Conversion |[Java](https://www.geeksforgeeks.org/count-number-of-bits-to-be-flipped-to-convert-a-to-b/)||
+| 6 |Conversion ||[Java](https://www.geeksforgeeks.org/count-number-of-bits-to-be-flipped-to-convert-a-to-b/)|
 | 7 |Pairwise swap |||
 | 8 |Draw Line |||
 
