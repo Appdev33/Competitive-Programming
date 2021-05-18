@@ -9,7 +9,7 @@ This repository will contain the **Links to online judge platforms if the questi
 # Chapter 1 - Arrays & Strings
 | # | Title | Online Judge | My Solution |
 |---| ----- | -------- | ----------|
-|1|Unique Characters|[GeeksforGeeks](https://www.geeksforgeeks.org/determine-string-unique-characters/)||
+|1|Unique Characters|[GeeksforGeeks](https://www.geeksforgeeks.org/determine-string-unique-characters/)|[Java]((https://www.geeksforgeeks.org/determine-string-unique-characters/))|
 |2|[String Permutation - GFG](https://www.geeksforgeeks.org/check-if-two-strings-are-permutation-of-each-other/)|[Leetcode-Medium](https://leetcode.com/problems/permutation-in-string/description/)|[Java](https://leetcode.com/problems/permutation-in-string/)|
 |3|Urlify|[GeeksforGeeks](https://www.geeksforgeeks.org/urlify-given-string-replace-spaces/)||
 |4|Palindrome Permutation|[Leetcode](https://leetcode.com/articles/palindrome-permutation/#solution)||
