@@ -63,7 +63,7 @@ This repository will contain the **Links to online judge platforms if the questi
 | 1 |Insertion |||
 | 2 |Binary to String |||
 | 3 |Flip Bit to Win |[GHG]()|[Java](https://ide.geeksforgeeks.org/KLET8atniQ) [Java](http://www.yujinc.com/5-3-flip-bit-to-win-cci/)|
-| 4 |Next Number |||
+| 4 |Next Number |[GFG](https://www.geeksforgeeks.org/closest-next-smaller-greater-numbers-number-set-bits/)|[GFG](https://www.geeksforgeeks.org/closest-next-smaller-greater-numbers-number-set-bits/)|
 | 5 |Debugger |[StackOverFlow]()|[StackOverflow](https://stackoverflow.com/questions/4678333/n-n-1-what-does-this-expression-do)|
 | 6 |Conversion |[GHG]()|[Java](https://www.geeksforgeeks.org/count-number-of-bits-to-be-flipped-to-convert-a-to-b/)|
 | 7 |Pairwise swap |[GHG]()|[Java](https://www.geeksforgeeks.org/swap-all-odd-and-even-bits/)|
