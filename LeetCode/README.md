@@ -103,10 +103,10 @@
 | 98 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)| ||
 | 99 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)| ||
 | 100 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)| ||
-| 22 | []()| ||
-| 22 | []()| ||
-| 22 | []()| ||
-| 22 | []()| ||
+| 101 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)| ||
+| 102 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)| ||
+| 103 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)| ||
+| 104 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| ||
 | 22 | []()| ||
 | 22 | []()| ||
 | 22 | []()| ||
