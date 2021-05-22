@@ -107,7 +107,7 @@
 | 102 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)| ||
 | 103 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)| ||
 | 104 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| ||
-| 22 | []()| ||
+| 105 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)| ||
 | 22 | []()| ||
 | 22 | []()| ||
 | 22 | []()| ||
