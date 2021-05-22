@@ -27,8 +27,8 @@
 | 22 | [Colorful Number](https://www.interviewbit.com/problems/colorful-number/)| ||
 | 23| [An Increment Problem](https://www.interviewbit.com/problems/an-increment-problem/)| ||
 | 24 | [Longest Substring Without Repeat](https://www.interviewbit.com/problems/longest-substring-without-repeat/)| ||
-| 6 | []()| ||
-| 5 | []()| ||
+| 25 | [Inorder Traversal](https://www.interviewbit.com/problems/inorder-traversal/)| ||
+| 26 | [Invert the Binary Tree](https://www.interviewbit.com/problems/invert-the-binary-tree/)| ||
 | 6 | []()| ||
 | 5 | []()| ||
 | 6 | []()| ||
