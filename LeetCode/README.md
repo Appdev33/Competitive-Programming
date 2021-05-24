@@ -108,9 +108,9 @@
 | 103 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)| ||
 | 104 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| ||
 | 105 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)| ||
-| 22 | []()| ||
-| 22 | []()| ||
-| 22 | []()| ||
+| 106 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)| ||
+| 107 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)| ||
+| 108 | [Binary Tree Postorder Traversal](https://leetcode.com/submissions/detail/497461187/)| ||
 | 22 | []()| ||
 | 22 | []()| ||
 | 22 | []()| ||
