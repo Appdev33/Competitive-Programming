@@ -112,11 +112,11 @@
 | 107 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)| ||
 | 108 | [Binary Tree Postorder Traversal](https://leetcode.com/submissions/detail/497461187/)| ||
 | 109 | [N-Queens](https://leetcode.com/problems/n-queens/)| ||
-| 22 | []()| ||
-| 22 | []()| ||
-| 22 | []()| ||
-| 22 | []()| ||
-| 22 | []()| ||
+| 110 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| ||
+| 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)| ||
+| 112 | [Same Tree](https://leetcode.com/problems/same-tree/)| ||
+| 113 | [Word Pattern](https://leetcode.com/problems/word-pattern/)| ||
+| 114 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)| ||
 | 22 | []()| ||
 | 22 | []()| ||
 | 22 | []()| ||
