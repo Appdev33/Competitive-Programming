@@ -118,10 +118,10 @@
 | 113 | [Word Pattern](https://leetcode.com/problems/word-pattern/)| ||
 | 114 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)| ||
 | 115 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)| ||
-| 22 | []()| ||
-| 22 | []()| ||
-| 22 | []()| ||
-| 22 | []()| ||
+| 116 | [Path Sum](https://leetcode.com/problems/path-sum/)| ||
+| 117 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)| ||
+| 118 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)| ||
+| 119 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)| ||
 | 22 | []()| ||
 | 22 | []()| ||
 | 22 | []()| ||
