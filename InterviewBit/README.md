@@ -29,9 +29,9 @@
 | 24 | [Longest Substring Without Repeat](https://www.interviewbit.com/problems/longest-substring-without-repeat/)| ||
 | 25 | [Inorder Traversal](https://www.interviewbit.com/problems/inorder-traversal/)| ||
 | 26 | [Invert the Binary Tree](https://www.interviewbit.com/problems/invert-the-binary-tree/)| ||
-| 6 | []()| ||
-| 5 | []()| ||
-| 6 | []()| ||
+| 27 | [Reverse Level Order](https://www.interviewbit.com/problems/reverse-level-order/)| ||
+| 28 | [Merge K sorted arrays!](https://www.interviewbit.com/problems/merge-k-sorted-arrays/)| ||
+| 29 | [Check Palindrome](https://www.interviewbit.com/problems/check-palindrome/)| ||
 | 6 | []()| ||
 | 5 | []()| ||
 | 6 | []()| ||
