@@ -122,8 +122,8 @@
 | 117 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)| ||
 | 118 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)| ||
 | 119 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)| ||
-| 22 | []()| ||
-| 22 | []()| ||
+| 120 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)| ||
+| 121 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)| ||
 | 22 | []()| ||
 | 22 | []()| ||
 | 22 | []()| ||
