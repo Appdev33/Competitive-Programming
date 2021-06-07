@@ -124,7 +124,7 @@
 | 119 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)| ||
 | 120 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)| ||
 | 121 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)| ||
-| 22 | []()| ||
+| 122 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)| ||
 | 22 | []()| ||
 | 22 | []()| ||
 | 22 | []()| ||
