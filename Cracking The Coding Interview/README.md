@@ -74,14 +74,14 @@ This repository will contain the **Links to online judge platforms if the questi
 | # | Title | Online Judge | My Solution |
 |---| ----- | -------- | ----------|
 | 1 |The Heavy Pill |||
-| 2 |BasketBall |||
-| 3 |Dominos |||
-| 4 |Ants on a Triangle |||
-| 5 |Jugs of Water |||
+| 2 |BasketBall ||[GFG](https://www.geeksforgeeks.org/puzzle-basketball-shots/)|
+| 3 |Dominos ||[GFG](https://www.geeksforgeeks.org/puzzle-25chessboard-and-dominos/)|
+| 4 |Ants on a Triangle ||[GFG](https://www.geeksforgeeks.org/puzzle-21-3-ants-and-triangle/)|
+| 5 |Jugs of Water ||[GFG](https://www.careercup.com/question?id=2857)|
 | 6 |Blue-Eyed Island |||
 | 7 |The Apocalyspse |||
 | 8 | The Egg Drop Problem |||
-| 9 |100 Lockers |||
+| 9 |100 Lockers ||[GFG](https://www.geeksforgeeks.org/puzzle-16-100-doors/)|
 | 10 |Poison |||
 
 
