@@ -32,7 +32,7 @@
 | 27 | [Reverse Level Order](https://www.interviewbit.com/problems/reverse-level-order/)| ||
 | 28 | [Merge K sorted arrays!](https://www.interviewbit.com/problems/merge-k-sorted-arrays/)| ||
 | 29 | [Check Palindrome](https://www.interviewbit.com/problems/check-palindrome/)| ||
-| 6 | []()| ||
+| 30 | [Majority Element](https://www.interviewbit.com/problems/majority-element/)| ||
 | 5 | []()| ||
 | 6 | []()| ||
 | 5 | []()| ||
