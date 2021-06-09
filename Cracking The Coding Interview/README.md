@@ -46,15 +46,15 @@ This repository will contain the **Links to online judge platforms if the questi
 | 1 |Route Between Nodes |||
 | 2 |Minimal Tree |||
 | 3 |List if Depth |||
-| 4 |Check Balanced |[LeetCode]|[Java](https://leetcode.com/problems/balanced-binary-tree/)|
-| 5 |Validate BST |[LeetCode]|[Java](https://leetcode.com/problems/validate-binary-search-tree/)|
+| 4 |Check Balanced |[LeetCode]()|[Java](https://leetcode.com/problems/balanced-binary-tree/)|
+| 5 |Validate BST |[LeetCode]()|[Java](https://leetcode.com/problems/validate-binary-search-tree/)|
 | 6 |Successor |||
 | 7 |Build Order |||
 | 8 |First Common Ancestor |||
 | 9 |BST Sequences |||
 | 10 |Check Subtree |||
 | 11 |Random Node |||
-| 12 |Paths with Sum |[LeetCode]| [Java](https://leetcode.com/submissions/detail/504771841/)|
+| 12 |Paths with Sum |[LeetCode]()| [Java](https://leetcode.com/submissions/detail/504771841/)|
 
 
 # Chapter 5 - Bit Manupilation
