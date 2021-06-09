@@ -82,7 +82,7 @@ This repository will contain the **Links to online judge platforms if the questi
 | 7 |The Apocalyspse |||
 | 8 | The Egg Drop Problem |||
 | 9 |100 Lockers ||[GFG](https://www.geeksforgeeks.org/puzzle-16-100-doors/)|
-| 10 |Poison |||
+| 10 |Poison ||[GFG](https://www.geeksforgeeks.org/puzzle-19-poison-and-rat/)|
 
 
 # Chapter 7 - Object Oriented Design
