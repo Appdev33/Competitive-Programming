@@ -102,6 +102,25 @@ This repository will contain the **Links to online judge platforms if the questi
 | 12 |Hash Table |||
 
 
+# Chapter 8 - Recursion and Dynamic Programming
+| # | Title | Online Judge | My Solution |
+|---| ----- | -------- | ----------|
+| 1 |Triple Step |||
+| 2 |Robot in a Grid |||
+| 3 |Magic Index |||
+| 4 |Power Set |||
+| 5 |Recursive Multiply |||
+| 6 |Towers of Hanoi |||
+| 7 |Permutations without Dups |||
+| 8 |Parens |||
+| 9 |Paint Fill |||
+| 10 |Coins |||
+| 11 |Eight Queens |||
+| 12 |Stack Of Boxes |||
+| 13 |Boolean Evaluation |||
+| 14 |Insertion |||
+
+
 # Chapter 8 - Bit Manupilation
 | # | Title | Online Judge | My Solution |
 |---| ----- | -------- | ----------|
