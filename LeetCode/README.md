@@ -126,8 +126,8 @@
 | 121 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)| ||
 | 122 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)| ||
 | 123 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/)| ||
-| 22 | []()| ||
-| 22 | []()| ||
+| 124 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)| ||
+| 125 | [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)| ||
 | 22 | []()| ||
 | 22 | []()| ||
 | 22 | []()| ||
