@@ -128,9 +128,9 @@
 | 123 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/)| ||
 | 124 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)| ||
 | 125 | [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)| ||
-| 22 | []()| ||
-| 22 | []()| ||
-| 22 | []()| ||
+| 126 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)| ||
+| 127 | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)| ||
+| 128 | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)| ||
 | 22 | []()| ||
 | 22 | []()| ||
 | 22 | []()| ||
