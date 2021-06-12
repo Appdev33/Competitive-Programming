@@ -33,7 +33,7 @@
 | 28 | [Merge K sorted arrays!](https://www.interviewbit.com/problems/merge-k-sorted-arrays/)| ||
 | 29 | [Check Palindrome](https://www.interviewbit.com/problems/check-palindrome/)| ||
 | 30 | [Majority Element](https://www.interviewbit.com/problems/majority-element/)| ||
-| 5 | []()| ||
+| 31 | [Profit Maximisation](https://www.interviewbit.com/problems/profit-maximisation/)| ||
 | 6 | []()| ||
 | 5 | []()| ||
 | 6 | []()| ||
