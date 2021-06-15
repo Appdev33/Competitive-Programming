@@ -131,10 +131,10 @@
 | 126 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)| ||
 | 127 | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)| ||
 | 128 | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)| ||
-| 22 | []()| ||
-| 22 | []()| ||
-| 22 | []()| ||
-| 22 | []()| ||
+| 129 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)| ||
+| 130 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)| ||
+| 131 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/)| ||
+| 132 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)| ||
 | 22 | []()| ||
 | 22 | []()| ||
 | 22 | []()| ||
