@@ -34,7 +34,7 @@
 | 29 | [Check Palindrome](https://www.interviewbit.com/problems/check-palindrome/)| ||
 | 30 | [Majority Element](https://www.interviewbit.com/problems/majority-element/)| ||
 | 31 | [Profit Maximisation](https://www.interviewbit.com/problems/profit-maximisation/)| ||
-| 6 | []()| ||
+| 32 | [Valid BST from Preorder](https://www.interviewbit.com/problems/valid-bst-from-preorder/)| ||
 | 5 | []()| ||
 | 6 | []()| ||
 | 6 | []()| ||
