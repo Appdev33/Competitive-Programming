@@ -50,7 +50,7 @@ This repository will contain the **Links to online judge platforms if the questi
 | 5 |Validate BST |[LeetCode]()|[Java](https://leetcode.com/problems/validate-binary-search-tree/)|
 | 6 |Successor |||
 | 7 |Build Order |||
-| 8 |First Common Ancestor |||
+| 8 |First Common Ancestor |[LeetCode]()|[Java](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|
 | 9 |BST Sequences |||
 | 10 |Check Subtree |||
 | 11 |Random Node |||
