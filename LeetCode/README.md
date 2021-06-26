@@ -141,7 +141,7 @@
 | 136 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)| ||
 | 137 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)| ||
 | 138 | [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/)| ||
-| 22 | []()| ||
+| 139 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)| ||
 | 22 | []()| ||
 | 22 | []()| ||
 | 22 | []()| ||
