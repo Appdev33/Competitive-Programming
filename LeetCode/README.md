@@ -143,7 +143,7 @@
 | 138 | [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/)| ||
 | 139 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)| ||
 | 140 | [Longest Word in Dictionary](https://leetcode.com/submissions/detail/513852134/)| ||
-| 22 | []()| ||
+| 141 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)| ||
 | 22 | []()| ||
 | 22 | []()| ||
 | 22 | []()| ||
