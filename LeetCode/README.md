@@ -144,9 +144,9 @@
 | 139 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)| ||
 | 140 | [Longest Word in Dictionary](https://leetcode.com/submissions/detail/513852134/)| ||
 | 141 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)| ||
-| 22 | []()| ||
-| 22 | []()| ||
-| 22 | []()| ||
+| 142 | [Minimum Distance Between BST Nodes](https://leetcode.com/submissions/detail/515259516/)| ||
+| 143 | [Vertical Order Traversal of a Binary Tree](https://leetcode.com/submissions/detail/516663324/)| ||
+| 144 | [	Diameter of Binary Tree](https://leetcode.com/submissions/detail/519088861/)| ||
 | 22 | []()| ||
 | 22 | []()| ||
 | 22 | []()| ||
