@@ -35,8 +35,8 @@
 | 30 | [Majority Element](https://www.interviewbit.com/problems/majority-element/)| ||
 | 31 | [Profit Maximisation](https://www.interviewbit.com/problems/profit-maximisation/)| ||
 | 32 | [Valid BST from Preorder](https://www.interviewbit.com/problems/valid-bst-from-preorder/)| ||
-| 5 | []()| ||
-| 6 | []()| ||
+| 33 | [Assign Mice To Holes](https://www.interviewbit.com/old/problems/assign-mice-to-holes/)| ||
+| 34 | [Maximum Edge Removal](https://www.interviewbit.com/problems/maximum-edge-removal/)| |Try Again|
 | 6 | []()| ||
 | 5 | []()| ||
 | 6 | []()| ||
