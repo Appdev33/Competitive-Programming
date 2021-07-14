@@ -147,7 +147,7 @@
 | 142 | [Minimum Distance Between BST Nodes](https://leetcode.com/submissions/detail/515259516/)| ||
 | 143 | [Vertical Order Traversal of a Binary Tree](https://leetcode.com/submissions/detail/516663324/)| ||
 | 144 | [	Diameter of Binary Tree](https://leetcode.com/submissions/detail/519088861/)| ||
-| 22 | []()| ||
+| 145 | [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/)| ||
 | 22 | []()| ||
 | 22 | []()| ||
 | 22 | []()| ||
