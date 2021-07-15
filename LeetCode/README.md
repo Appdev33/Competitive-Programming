@@ -148,7 +148,7 @@
 | 143 | [Vertical Order Traversal of a Binary Tree](https://leetcode.com/submissions/detail/516663324/)| ||
 | 144 | [	Diameter of Binary Tree](https://leetcode.com/submissions/detail/519088861/)| ||
 | 145 | [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/)| ||
-| 22 | []()| ||
+| 146 | [Distribute Candies](https://leetcode.com/submissions/detail/522879041/)| ||
 | 22 | []()| ||
 | 22 | []()| ||
 | 22 | []()| ||
