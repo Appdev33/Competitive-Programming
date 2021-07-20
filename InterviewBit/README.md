@@ -38,8 +38,8 @@
 | 33 | [Assign Mice To Holes](https://www.interviewbit.com/old/problems/assign-mice-to-holes/)| ||
 | 34 | [Maximum Edge Removal](https://www.interviewbit.com/problems/maximum-edge-removal/)| |Try Again|
 | 35 | [Distribute Candy](https://www.interviewbit.com/problems/distribute-candy/)| ||
-| 5 | []()| ||
-| 6 | []()| ||
+| 36 | [Remove Half Nodes](https://www.interviewbit.com/old/problems/remove-half-nodes/)| ||
+| 37 | []()| ||
 | 5 | []()| ||
 | 6 | []()| ||
 
