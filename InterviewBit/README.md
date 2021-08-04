@@ -39,7 +39,7 @@
 | 34 | [Maximum Edge Removal](https://www.interviewbit.com/problems/maximum-edge-removal/)| |Try Again|
 | 35 | [Distribute Candy](https://www.interviewbit.com/problems/distribute-candy/)| ||
 | 36 | [Remove Half Nodes](https://www.interviewbit.com/old/problems/remove-half-nodes/)| ||
-| 37 | []()| ||
-| 5 | []()| ||
-| 6 | []()| ||
+| 37 | [Longest Common Subsequence](https://www.interviewbit.com/problems/longest-common-subsequence/)| ||
+| 38 | [Longest Palindromic Subsequence](https://www.interviewbit.com/problems/longest-palindromic-subsequence/)| ||
+| 39 | [Chain of Pairs](https://www.interviewbit.com/problems/chain-of-pairs/)| ||
 
