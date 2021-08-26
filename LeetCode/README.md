@@ -150,8 +150,8 @@
 | 145 | [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/)| ||
 | 146 | [Distribute Candies](https://leetcode.com/submissions/detail/522879041/)| ||
 | 147 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)| ||
-| 22 | []()| ||
-| 22 | []()| ||
+| 148 | [Jump Game](https://leetcode.com/problems/jump-game/)| ||
+| 149 | [Gas Station](https://leetcode.com/problems/gas-station/)| ||
 | 22 | []()| ||
 | 22 | []()| ||
 | 22 | []()| ||
