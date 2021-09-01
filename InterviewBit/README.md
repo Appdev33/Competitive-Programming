@@ -42,4 +42,5 @@
 | 37 | [Longest Common Subsequence](https://www.interviewbit.com/problems/longest-common-subsequence/)| ||
 | 38 | [Longest Palindromic Subsequence](https://www.interviewbit.com/problems/longest-palindromic-subsequence/)| ||
 | 39 | [Chain of Pairs](https://www.interviewbit.com/problems/chain-of-pairs/)| ||
+| 40 | [Populate Next Right Pointers Tree](https://www.interviewbit.com/problems/populate-next-right-pointers-tree/)| ||
 
