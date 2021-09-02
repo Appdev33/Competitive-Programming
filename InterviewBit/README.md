@@ -43,4 +43,5 @@
 | 38 | [Longest Palindromic Subsequence](https://www.interviewbit.com/problems/longest-palindromic-subsequence/)| ||
 | 39 | [Chain of Pairs](https://www.interviewbit.com/problems/chain-of-pairs/)| ||
 | 40 | [Populate Next Right Pointers Tree](https://www.interviewbit.com/problems/populate-next-right-pointers-tree/)| ||
+| 41 | [Maximum Size Square Sub-matrix](https://www.interviewbit.com/problems/maximum-size-square-sub-matrix/)| ||
 
