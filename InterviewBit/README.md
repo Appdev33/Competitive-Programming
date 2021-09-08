@@ -35,13 +35,41 @@
 | 30 | [Majority Element](https://www.interviewbit.com/problems/majority-element/)| ||
 | 31 | [Profit Maximisation](https://www.interviewbit.com/problems/profit-maximisation/)| ||
 | 32 | [Valid BST from Preorder](https://www.interviewbit.com/problems/valid-bst-from-preorder/)| ||
+# DP
 | 33 | [Assign Mice To Holes](https://www.interviewbit.com/old/problems/assign-mice-to-holes/)| ||
 | 34 | [Maximum Edge Removal](https://www.interviewbit.com/problems/maximum-edge-removal/)| |Try Again|
 | 35 | [Distribute Candy](https://www.interviewbit.com/problems/distribute-candy/)| ||
 | 36 | [Remove Half Nodes](https://www.interviewbit.com/old/problems/remove-half-nodes/)| ||
 | 37 | [Longest Common Subsequence](https://www.interviewbit.com/problems/longest-common-subsequence/)| ||
 | 38 | [Longest Palindromic Subsequence](https://www.interviewbit.com/problems/longest-palindromic-subsequence/)| ||
-| 39 | [Chain of Pairs](https://www.interviewbit.com/problems/chain-of-pairs/)| ||
+| 39 | [Chain of Min Sum Path in MatrixPairs](https://www.interviewbit.com/problems/chain-of-pairs/)| ||
 | 40 | [Populate Next Right Pointers Tree](https://www.interviewbit.com/problems/populate-next-right-pointers-tree/)| ||
 | 41 | [Maximum Size Square Sub-matrix](https://www.interviewbit.com/problems/maximum-size-square-sub-matrix/)| ||
-
+| 41 | [Min Sum Path in Triangle](https://www.interviewbit.com/problems/min-sum-path-in-triangle/)| ||
+| 41 | [Min Sum Path in Matrix](https://www.interviewbit.com/problems/min-sum-path-in-matrix/)| ||
+| 41 | [Egg Drop Problem!](https://www.interviewbit.com/problems/egg-drop-problem/)| ||
+| 41 | []()| ||
+| 41 | ()| ||
+| 41 | ()| ||
+| 41 | ()| ||
+| 41 | ()| ||
+| 41 | ()| ||
+| 41 | ()| ||
+| 41 | ()| ||
+| 41 | ()| ||
+| 41 | ()| ||
+| 41 | ()| ||
+| 41 | ()| ||
+| 41 | ()| ||
+| 41 | ()| ||
+| 41 | ()| ||
+| 41 | ()| ||
+| 41 | ()| ||
+| 41 | ()| ||
+| 41 | ()| ||
+| 41 | ()| ||
+| 41 | ()| ||
+| 41 | ()| ||
+| 41 | ()| ||
+| 41 | ()| ||
+| 41 | ()| ||
