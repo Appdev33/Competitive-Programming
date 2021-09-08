@@ -79,8 +79,8 @@ This repository will contain the **Links to online judge platforms if the questi
 | 4 |Ants on a Triangle ||[GFG](https://www.geeksforgeeks.org/puzzle-21-3-ants-and-triangle/)|
 | 5 |Jugs of Water ||[GFG](https://www.careercup.com/question?id=2857)|
 | 6 |Blue-Eyed Island ||[GFG](https://www.geeksforgeeks.org/blue-eyed-island-puzzle/)|
-| 7 |The Apocalyspse |||
-| 8 | The Egg Drop Problem |[GFG](https://www.geeksforgeeks.org/puzzle-set-35-2-eggs-and-100-floors/)||
+| 7 |The Apocalyspse ||[Youtube](https://www.youtube.com/watch?v=AxjU0AkeZqM)|
+| 8 | The Egg Drop Problem ||[GFG](https://www.geeksforgeeks.org/puzzle-set-35-2-eggs-and-100-floors/)|
 | 9 |100 Lockers ||[GFG](https://www.geeksforgeeks.org/puzzle-16-100-doors/)|
 | 10 |Poison ||[GFG](https://www.geeksforgeeks.org/puzzle-19-poison-and-rat/)|
 
