@@ -36,6 +36,8 @@
 | 31 | [Profit Maximisation](https://www.interviewbit.com/problems/profit-maximisation/)| ||
 | 32 | [Valid BST from Preorder](https://www.interviewbit.com/problems/valid-bst-from-preorder/)| ||
 # DP
+| # | Title | Solution | My Approach |
+|---| ----- | -------- | --------------------- |
 | 33 | [Assign Mice To Holes](https://www.interviewbit.com/old/problems/assign-mice-to-holes/)| ||
 | 34 | [Maximum Edge Removal](https://www.interviewbit.com/problems/maximum-edge-removal/)| |Try Again|
 | 35 | [Distribute Candy](https://www.interviewbit.com/problems/distribute-candy/)| ||
