@@ -152,11 +152,11 @@
 | 147 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)| ||
 | 148 | [Jump Game](https://leetcode.com/problems/jump-game/)| ||
 | 149 | [Gas Station](https://leetcode.com/problems/gas-station/)| ||
-| 22 | []()| ||
-| 22 | []()| ||
-| 22 | []()| ||
-| 22 | []()| ||
-| 22 | []()| ||
+| 150 | [Unique Paths](https://leetcode.com/submissions/detail/546538224/)| ||
+| 151 | [Decode Ways](https://leetcode.com/submissions/detail/556373077/)| ||
+| 152 | [Number of Ways to Paint N × 3 Grid](https://leetcode.com/submissions/detail/556860723/)| ||
+| 153 | [Best Time to Buy and Sell Stock II](https://leetcode.com/submissions/detail/557346421/)| ||
+| 154 | [Unique Binary Search Trees](https://leetcode.com/submissions/detail/557868301/)| ||
 | 22 | []()| ||
 | 22 | []()| ||
 | 22 | []()| ||
