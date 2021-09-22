@@ -157,7 +157,7 @@
 | 152 | [Number of Ways to Paint N × 3 Grid](https://leetcode.com/submissions/detail/556860723/)| ||
 | 153 | [Best Time to Buy and Sell Stock II](https://leetcode.com/submissions/detail/557346421/)| ||
 | 154 | [Unique Binary Search Trees](https://leetcode.com/submissions/detail/557868301/)| ||
-| 22 | []()| ||
+| 155 | [Jump Game II](https://leetcode.com/submissions/detail/558963792/)| ||
 | 22 | []()| ||
 | 22 | []()| ||
 | 22 | []()| ||
