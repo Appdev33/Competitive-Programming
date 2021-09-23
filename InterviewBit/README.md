@@ -50,7 +50,7 @@
 | 42 | [Min Sum Path in Triangle](https://www.interviewbit.com/problems/min-sum-path-in-triangle/)| ||
 | 43 | [Min Sum Path in Matrix](https://www.interviewbit.com/problems/min-sum-path-in-matrix/)| ||
 | 44 | [Egg Drop Problem!](https://www.interviewbit.com/problems/egg-drop-problem/)| ||
-| 45 | [Count Permutations of BST](https://www.interviewbit.com/old/problems/count-permutations-of-bst/)| ||
+| 45 | [Count Permutations of BST](https://www.interviewbit.com/old/problems/count-permutations-of-bst/)|(Again) ||
 | 41 | ()| ||
 | 41 | ()| ||
 | 41 | ()| ||
