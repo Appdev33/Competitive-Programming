@@ -47,10 +47,10 @@
 | 39 | [Chain of Min Sum Path in MatrixPairs](https://www.interviewbit.com/problems/chain-of-pairs/)| ||
 | 40 | [Populate Next Right Pointers Tree](https://www.interviewbit.com/problems/populate-next-right-pointers-tree/)| ||
 | 41 | [Maximum Size Square Sub-matrix](https://www.interviewbit.com/problems/maximum-size-square-sub-matrix/)| ||
-| 41 | [Min Sum Path in Triangle](https://www.interviewbit.com/problems/min-sum-path-in-triangle/)| ||
-| 41 | [Min Sum Path in Matrix](https://www.interviewbit.com/problems/min-sum-path-in-matrix/)| ||
-| 41 | [Egg Drop Problem!](https://www.interviewbit.com/problems/egg-drop-problem/)| ||
-| 41 | []()| ||
+| 42 | [Min Sum Path in Triangle](https://www.interviewbit.com/problems/min-sum-path-in-triangle/)| ||
+| 43 | [Min Sum Path in Matrix](https://www.interviewbit.com/problems/min-sum-path-in-matrix/)| ||
+| 44 | [Egg Drop Problem!](https://www.interviewbit.com/problems/egg-drop-problem/)| ||
+| 45 | [Count Permutations of BST](https://www.interviewbit.com/old/problems/count-permutations-of-bst/)| ||
 | 41 | ()| ||
 | 41 | ()| ||
 | 41 | ()| ||
