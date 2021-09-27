@@ -159,7 +159,7 @@
 | 154 | [Unique Binary Search Trees](https://leetcode.com/submissions/detail/557868301/)| ||
 | 155 | [Jump Game II](https://leetcode.com/submissions/detail/558963792/)| ||
 | 156 | [Maximum Product Subarray](https://leetcode.com/submissions/detail/560605730/)| ||
-| 22 | []()| ||
+| 157 | [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/submissions/)| ||
 | 22 | []()| ||
 | 22 | []()| ||
 | 22 | []()| ||
