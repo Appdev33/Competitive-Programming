@@ -2,8 +2,9 @@
 # Interview Bit Questions
 
 # Arrays
-| # | Title | Solution | My Approach           |Time Complexity| My Ratings |
-|---| ----- | -------- | --------------------- | --------------| ------------|
+| # | Title | Solution | My Approach           |Time Complexity|Space Complexity| My Ratings |
+|---| ----- | -------- | --------------------- | --------------| ------------|------------|
+|1|Pick from both sides!||[Java](https://www.interviewbit.com/old/problems/pick-from-both-sides/)| O(n)|O(1) | 3.5|
 |||||||
 |||||||
 |||||||
