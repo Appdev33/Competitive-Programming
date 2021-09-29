@@ -160,8 +160,8 @@
 | 155 | [Jump Game II](https://leetcode.com/submissions/detail/558963792/)| ||
 | 156 | [Maximum Product Subarray](https://leetcode.com/submissions/detail/560605730/)| ||
 | 157 | [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/submissions/)| ||
-| 22 | []()| ||
-| 22 | []()| ||
+| 158 | [Maximum Subarray](https://leetcode.com/submissions/detail/562790000/)| ||
+| 159 | [Product of Array Except Self](https://leetcode.com/submissions/detail/562743811/)| ||
 | 22 | []()| ||
 | 22 | []()| ||
 | 22 | []()| ||
